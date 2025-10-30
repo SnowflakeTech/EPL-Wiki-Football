@@ -1,0 +1,727 @@
+﻿:START_ID(Coach),:END_ID(Club),season_id,years,is_current,:TYPE
+coach_thomas_mitchell,club_arsenal,EPL-2024–25,30 March 1897,False,COACHED
+coach_unknown,club_arsenal,EPL-2024–25,11 March 1898,False,COACHED
+coach_william_elcoat,club_arsenal,EPL-2024–25,11 April 1898,False,COACHED
+coach_arthur_kennedy,club_arsenal,EPL-2024–25,21 February 1899,False,COACHED
+coach_harry_bradshaw,club_arsenal,EPL-2024–25,30 June 1899,False,COACHED
+coach_phil_kelso,club_arsenal,EPL-2024–25,1 May 1904,False,COACHED
+coach_george_morrell,club_arsenal,EPL-2024–25,10 February 1908,False,COACHED
+coach_james_mcewen,club_arsenal,EPL-2024–25,19 April 1915,False,COACHED
+coach_leslie_knighton,club_arsenal,EPL-2024–25,25 May 1919,False,COACHED
+coach_herbert_chapman,club_arsenal,EPL-2024–25,11 June 1925,False,COACHED
+coach_joe_shaw,club_arsenal,EPL-2024–25,6 January 1934,False,COACHED
+coach_george_allison,club_arsenal,EPL-2024–25,28 May 1934,False,COACHED
+coach_tom_whittaker,club_arsenal,EPL-2024–25,2 June 1947,False,COACHED
+coach_jack_crayston,club_arsenal,EPL-2024–25,24 October 1956,False,COACHED
+coach_george_swindin,club_arsenal,EPL-2024–25,21 June 1958,False,COACHED
+coach_billy_wright,club_arsenal,EPL-2024–25,1 May 1962,False,COACHED
+coach_bertie_mee,club_arsenal,EPL-2024–25,20 June 1966,False,COACHED
+coach_terry_neill,club_arsenal,EPL-2024–25,9 July 1976,False,COACHED
+coach_don_howe,club_arsenal,EPL-2024–25,16 December 1983,False,COACHED
+coach_steve_burtenshaw,club_arsenal,EPL-2024–25,23 March 1986,False,COACHED
+coach_george_graham,club_arsenal,EPL-2024–25,14 May 1986,False,COACHED
+coach_stewart_houston,club_arsenal,EPL-2024–25,21 February 1995,False,COACHED
+coach_bruce_rioch,club_arsenal,EPL-2024–25,15 June 1995,False,COACHED
+coach_stewart_houston,club_arsenal,EPL-2024–25,12 August 1996,False,COACHED
+coach_pat_rice,club_arsenal,EPL-2024–25,13 September 1996,False,COACHED
+coach_arsene_wenger,club_arsenal,EPL-2024–25,1 October 1996,False,COACHED
+coach_unai_emery,club_arsenal,EPL-2024–25,23 May 2018,False,COACHED
+coach_freddie_ljungberg,club_arsenal,EPL-2024–25,29 November 2019,False,COACHED
+coach_mikel_arteta,club_arsenal,EPL-2024–25,22 December 2019,True,COACHED
+coach_william_edward_barclay_john_mckenna,club_liverpool,EPL-2024–25,15 February 1892,False,COACHED
+coach_tom_watson,club_liverpool,EPL-2024–25,17 August 1896,False,COACHED
+coach_george_patterson,club_liverpool,EPL-2024–25,14 September 1918,False,COACHED
+coach_david_ashworth,club_liverpool,EPL-2024–25,18 December 1919,False,COACHED
+coach_matt_mcqueen,club_liverpool,EPL-2024–25,13 February 1923,False,COACHED
+coach_george_patterson,club_liverpool,EPL-2024–25,7 March 1928,False,COACHED
+coach_george_kay,club_liverpool,EPL-2024–25,6 August 1936,False,COACHED
+coach_don_welsh,club_liverpool,EPL-2024–25,23 March 1951,False,COACHED
+coach_phil_taylor,club_liverpool,EPL-2024–25,May 1956,False,COACHED
+coach_bill_shankly,club_liverpool,EPL-2024–25,1 December 1959,False,COACHED
+coach_bob_paisley,club_liverpool,EPL-2024–25,26 August 1974,False,COACHED
+coach_joe_fagan,club_liverpool,EPL-2024–25,2 July 1983,False,COACHED
+coach_kenny_dalglish,club_liverpool,EPL-2024–25,30 May 1985,False,COACHED
+coach_ronnie_moran,club_liverpool,EPL-2024–25,22 February 1991,False,COACHED
+coach_graeme_souness,club_liverpool,EPL-2024–25,16 April 1991,False,COACHED
+coach_roy_evans,club_liverpool,EPL-2024–25,31 January 1994,False,COACHED
+coach_roy_evans_gerard_houllier,club_liverpool,EPL-2024–25,16 July 1998,False,COACHED
+coach_gerard_houllier,club_liverpool,EPL-2024–25,16 July 1998,False,COACHED
+coach_rafael_benitez,club_liverpool,EPL-2024–25,16 June 2004,False,COACHED
+coach_roy_hodgson,club_liverpool,EPL-2024–25,1 July 2010,False,COACHED
+coach_kenny_dalglish,club_liverpool,EPL-2024–25,8 January 2011,False,COACHED
+coach_brendan_rodgers,club_liverpool,EPL-2024–25,1 June 2012,False,COACHED
+coach_jurgen_klopp,club_liverpool,EPL-2024–25,8 October 2015,False,COACHED
+coach_arne_slot,club_liverpool,EPL-2024–25,1 June 2024,True,COACHED
+coach_george_ramsay,club_aston_villa,EPL-2024–25,1 August 1884,False,COACHED
+coach_jimmy_hogan,club_aston_villa,EPL-2024–25,1 November 1936,False,COACHED
+coach_eric_houghton,club_aston_villa,EPL-2024–25,1 September 1953,False,COACHED
+coach_joe_mercer,club_aston_villa,EPL-2024–25,1 December 1958,False,COACHED
+coach_ron_saunders,club_aston_villa,EPL-2024–25,4 June 1974,False,COACHED
+coach_tony_barton,club_aston_villa,EPL-2024–25,9 February 1982,False,COACHED
+coach_jozef_venglos,club_aston_villa,EPL-2024–25,22 July 1990,False,COACHED
+coach_ron_atkinson,club_aston_villa,EPL-2024–25,7 July 1991,False,COACHED
+coach_brian_little,club_aston_villa,EPL-2024–25,25 November 1994,False,COACHED
+coach_john_gregory,club_aston_villa,EPL-2024–25,25 February 1998,False,COACHED
+coach_dean_smith,club_aston_villa,EPL-2024–25,10 October 2018,True,COACHED
+coach_1967-1976_division_1_1976-1977_division_2_1977-1982_division_1_1982-1983_division_2_1983-1984_division_1_1984-1985_division_2,club_wolverhampton_wanderers,EPL-2024–25,1888–1906 Division 1 1906–1923 Division 2 1923–1924 Division 3 North 1924–1932 Division 2 1932–1965 Division 1 1965–1967 Division 2,True,COACHED
+coach_syd_king,club_west_ham_united,EPL-2024–25,1901–32,False,COACHED
+coach_charlie_paynter,club_west_ham_united,EPL-2024–25,1932–50,False,COACHED
+coach_ted_fenton,club_west_ham_united,EPL-2024–25,1950–61,False,COACHED
+coach_ron_greenwood,club_west_ham_united,EPL-2024–25,1961–74,False,COACHED
+coach_john_lyall,club_west_ham_united,EPL-2024–25,1974–89,False,COACHED
+coach_lou_macari,club_west_ham_united,EPL-2024–25,1989–90,False,COACHED
+coach_nan,club_west_ham_united,EPL-2024–25,1990,False,COACHED
+coach_billy_bonds,club_west_ham_united,EPL-2024–25,1990–94,False,COACHED
+coach_harry_redknapp,club_west_ham_united,EPL-2024–25,1994–01,False,COACHED
+coach_glenn_roeder,club_west_ham_united,EPL-2024–25,2001–03,False,COACHED
+coach_nan,club_west_ham_united,EPL-2024–25,2003,False,COACHED
+coach_alan_pardew,club_west_ham_united,EPL-2024–25,2003–06,False,COACHED
+coach_alan_curbishley,club_west_ham_united,EPL-2024–25,2006–08,False,COACHED
+coach_nan,club_west_ham_united,EPL-2024–25,2008,False,COACHED
+coach_gianfranco_zola,club_west_ham_united,EPL-2024–25,2008–10,False,COACHED
+coach_avram_grant,club_west_ham_united,EPL-2024–25,2010–11,False,COACHED
+coach_nan,club_west_ham_united,EPL-2024–25,2011,False,COACHED
+coach_sam_allardyce,club_west_ham_united,EPL-2024–25,2011–15,False,COACHED
+coach_slaven_bilic,club_west_ham_united,EPL-2024–25,2015–17,False,COACHED
+coach_david_moyes,club_west_ham_united,EPL-2024–25,2017–18,False,COACHED
+coach_manuel_pellegrini,club_west_ham_united,EPL-2024–25,2018–19,False,COACHED
+coach_david_moyes,club_west_ham_united,EPL-2024–25,2019–2024,False,COACHED
+coach_julen_lopetegui,club_west_ham_united,EPL-2024–25,2024–2025,False,COACHED
+coach_graham_potter,club_west_ham_united,EPL-2024–25,2025,False,COACHED
+coach_nuno_espirito_santo,club_west_ham_united,EPL-2024–25,2025-...,True,COACHED
+coach_frank_brettell,club_tottenham_hotspur,EPL-2024–25,1898–1899,False,COACHED
+coach_arthur_turner,club_tottenham_hotspur,EPL-2024–25,1942–1946,False,COACHED
+coach_andre_villas-boas,club_tottenham_hotspur,EPL-2024–25,2012–2013,False,COACHED
+coach_mauricio_pochettino,club_tottenham_hotspur,EPL-2024–25,2014–2019,False,COACHED
+coach_antonio_conte,club_tottenham_hotspur,EPL-2024–25,2021–2023,False,COACHED
+coach_john_cameron,club_tottenham_hotspur,EPL-2024–25,1899–1907,False,COACHED
+coach_jose_mourinho,club_tottenham_hotspur,EPL-2024–25,2019–2021,False,COACHED
+coach_david_pleat,club_tottenham_hotspur,EPL-2024–25,"1986–1987,1998,2001,2003–2004",False,COACHED
+coach_tim_sherwood,club_tottenham_hotspur,EPL-2024–25,2013–2014,False,COACHED
+coach_harry_redknapp,club_tottenham_hotspur,EPL-2024–25,2008–2012,False,COACHED
+coach_bill_nicholson,club_tottenham_hotspur,EPL-2024–25,1958–1974,False,COACHED
+coach_arthur_rowe,club_tottenham_hotspur,EPL-2024–25,1949–1955,True,COACHED
+coach_cecil_knight,club_southampton,EPL-2024–25,August 1892,False,COACHED
+coach_charles_robson,club_southampton,EPL-2024–25,August 1895,False,COACHED
+coach_alfred_mcminn,club_southampton,EPL-2024–25,August 1896,False,COACHED
+coach_er_arnfield,club_southampton,EPL-2024–25,August 1897,False,COACHED
+coach_george_swift,club_southampton,EPL-2024–25,August 1911,False,COACHED
+coach_er_arnfield,club_southampton,EPL-2024–25,August 1912,False,COACHED
+coach_jimmy_mcintyre,club_southampton,EPL-2024–25,August 1919,False,COACHED
+coach_arthur_chadwick,club_southampton,EPL-2024–25,October 1925,False,COACHED
+coach_george_kay,club_southampton,EPL-2024–25,May 1931,False,COACHED
+coach_george_goss,club_southampton,EPL-2024–25,May 1936,False,COACHED
+coach_tom_parker,club_southampton,EPL-2024–25,March 1937,False,COACHED
+coach_arthur_dominy,club_southampton,EPL-2024–25,June 1943,False,COACHED
+coach_bill_dodgin,club_southampton,EPL-2024–25,January 1946,False,COACHED
+coach_sid_cann,club_southampton,EPL-2024–25,August 1949,False,COACHED
+coach_george_roughton,club_southampton,EPL-2024–25,March 1952,False,COACHED
+coach_ted_bates,club_southampton,EPL-2024–25,September 1955,False,COACHED
+coach_lawrie_mcmenemy,club_southampton,EPL-2024–25,November 1973,False,COACHED
+coach_chris_nicholl,club_southampton,EPL-2024–25,July 1985,False,COACHED
+coach_ian_branfoot,club_southampton,EPL-2024–25,June 1991,False,COACHED
+coach_alan_ball,club_southampton,EPL-2024–25,January 1994,False,COACHED
+coach_david_merrington,club_southampton,EPL-2024–25,July 1995,False,COACHED
+coach_graeme_souness,club_southampton,EPL-2024–25,July 1996,False,COACHED
+coach_dave_jones,club_southampton,EPL-2024–25,June 1997,False,COACHED
+coach_glenn_hoddle,club_southampton,EPL-2024–25,January 2000,False,COACHED
+coach_stuart_gray,club_southampton,EPL-2024–25,March 2001,False,COACHED
+coach_gordon_strachan,club_southampton,EPL-2024–25,October 2001,False,COACHED
+coach_steve_wigley,club_southampton,EPL-2024–25,February 2004,False,COACHED
+coach_paul_sturrock,club_southampton,EPL-2024–25,March 2004,False,COACHED
+coach_steve_wigley,club_southampton,EPL-2024–25,August 2004,False,COACHED
+coach_harry_redknapp,club_southampton,EPL-2024–25,December 2004,False,COACHED
+coach_dave_bassett_dennis_wise,club_southampton,EPL-2024–25,December 2005,False,COACHED
+coach_george_burley,club_southampton,EPL-2024–25,December 2005,False,COACHED
+coach_john_gorman_jason_dodd,club_southampton,EPL-2024–25,January 2008,False,COACHED
+coach_nigel_pearson,club_southampton,EPL-2024–25,February 2008,False,COACHED
+coach_jan_poortvliet,club_southampton,EPL-2024–25,May 2008,False,COACHED
+coach_mark_wotte,club_southampton,EPL-2024–25,January 2009,False,COACHED
+coach_alan_pardew,club_southampton,EPL-2024–25,July 2009,False,COACHED
+coach_dean_wilkins,club_southampton,EPL-2024–25,August 2010,False,COACHED
+coach_nigel_adkins,club_southampton,EPL-2024–25,September 2010,False,COACHED
+coach_mauricio_pochettino,club_southampton,EPL-2024–25,January 2013,False,COACHED
+coach_ronald_koeman,club_southampton,EPL-2024–25,June 2014,False,COACHED
+coach_claude_puel,club_southampton,EPL-2024–25,June 2016,False,COACHED
+coach_mauricio_pellegrino,club_southampton,EPL-2024–25,June 2017,False,COACHED
+coach_mark_hughes,club_southampton,EPL-2024–25,March 2018,False,COACHED
+coach_kelvin_davis,club_southampton,EPL-2024–25,December 2018,False,COACHED
+coach_ralph_hasenhuttl,club_southampton,EPL-2024–25,December 2018,False,COACHED
+coach_ruben_selles,club_southampton,EPL-2024–25,November 2022,False,COACHED
+coach_nathan_jones,club_southampton,EPL-2024–25,November 2022,False,COACHED
+coach_ruben_selles,club_southampton,EPL-2024–25,February 2023,False,COACHED
+coach_russell_martin,club_southampton,EPL-2024–25,June 2023,False,COACHED
+coach_simon_rusk,club_southampton,EPL-2024–25,December 2024,False,COACHED
+coach_ivan_juric,club_southampton,EPL-2024–25,December 2024,False,COACHED
+coach_simon_rusk,club_southampton,EPL-2024–25,April 2025,False,COACHED
+coach_will_still,club_southampton,EPL-2024–25,May 2025,True,COACHED
+coach_frank_watt,club_newcastle_united,EPL-2024–25,1892,False,COACHED
+coach_andy_cunningham,club_newcastle_united,EPL-2024–25,9 January 1930,False,COACHED
+coach_tom_mather,club_newcastle_united,EPL-2024–25,5 June 1935,False,COACHED
+coach_stan_seymour,club_newcastle_united,EPL-2024–25,1 September 1939,False,COACHED
+coach_george_martin,club_newcastle_united,EPL-2024–25,20 May 1947,False,COACHED
+coach_doug_livingstone,club_newcastle_united,EPL-2024–25,10 December 1954,False,COACHED
+coach_charlie_mitten,club_newcastle_united,EPL-2024–25,13 June 1958,False,COACHED
+coach_norman_smith,club_newcastle_united,EPL-2024–25,18 October 1961,False,COACHED
+coach_joe_harvey,club_newcastle_united,EPL-2024–25,1 June 1962,False,COACHED
+coach_gordon_lee,club_newcastle_united,EPL-2024–25,12 June 1975,False,COACHED
+coach_richard_dinnis,club_newcastle_united,EPL-2024–25,2 February 1977,False,COACHED
+coach_willie_mcfaul,club_newcastle_united,EPL-2024–25,9 November 1977,False,COACHED
+coach_bill_mcgarry,club_newcastle_united,EPL-2024–25,18 November 1977,False,COACHED
+coach_joe_harvey,club_newcastle_united,EPL-2024–25,31 August 1980,False,COACHED
+coach_arthur_cox,club_newcastle_united,EPL-2024–25,7 September 1980,False,COACHED
+coach_jack_charlton,club_newcastle_united,EPL-2024–25,14 August 1984,False,COACHED
+coach_willie_mcfaul,club_newcastle_united,EPL-2024–25,12 August 1985,False,COACHED
+coach_colin_suggett,club_newcastle_united,EPL-2024–25,10 October 1988,False,COACHED
+coach_jim_smith,club_newcastle_united,EPL-2024–25,14 December 1988,False,COACHED
+coach_bobby_saxton,club_newcastle_united,EPL-2024–25,21 March 1991,False,COACHED
+coach_osvaldo_ardiles,club_newcastle_united,EPL-2024–25,26 March 1991,False,COACHED
+coach_kevin_keegan,club_newcastle_united,EPL-2024–25,5 February 1992,False,COACHED
+coach_terry_mcdermott,club_newcastle_united,EPL-2024–25,8 January 1997,False,COACHED
+coach_kenny_dalglish,club_newcastle_united,EPL-2024–25,14 January 1997,False,COACHED
+coach_ruud_gullit,club_newcastle_united,EPL-2024–25,27 August 1998,False,COACHED
+coach_steve_clarke,club_newcastle_united,EPL-2024–25,28 August 1999,False,COACHED
+coach_bobby_robson,club_newcastle_united,EPL-2024–25,2 September 1999,False,COACHED
+coach_john_carver,club_newcastle_united,EPL-2024–25,11 September 2004,False,COACHED
+coach_graeme_souness,club_newcastle_united,EPL-2024–25,13 September 2004,False,COACHED
+coach_glenn_roeder,club_newcastle_united,EPL-2024–25,2 February 2006,False,COACHED
+coach_nigel_pearson,club_newcastle_united,EPL-2024–25,6 May 2007,False,COACHED
+coach_sam_allardyce,club_newcastle_united,EPL-2024–25,15 May 2007,False,COACHED
+coach_nigel_pearson,club_newcastle_united,EPL-2024–25,9 January 2008,False,COACHED
+coach_kevin_keegan,club_newcastle_united,EPL-2024–25,16 January 2008,False,COACHED
+coach_chris_hughton,club_newcastle_united,EPL-2024–25,8 September 2008,False,COACHED
+coach_joe_kinnear,club_newcastle_united,EPL-2024–25,29 September 2008,False,COACHED
+coach_chris_hughton,club_newcastle_united,EPL-2024–25,7 February 2009,False,COACHED
+coach_alan_shearer,club_newcastle_united,EPL-2024–25,1 April 2009,False,COACHED
+coach_chris_hughton,club_newcastle_united,EPL-2024–25,24 May 2009,False,COACHED
+coach_alan_pardew,club_newcastle_united,EPL-2024–25,9 December 2010,False,COACHED
+coach_john_carver,club_newcastle_united,EPL-2024–25,1 January 2015,False,COACHED
+coach_steve_mcclaren,club_newcastle_united,EPL-2024–25,10 June 2015,False,COACHED
+coach_rafael_benitez,club_newcastle_united,EPL-2024–25,11 March 2016,False,COACHED
+coach_steve_bruce,club_newcastle_united,EPL-2024–25,17 July 2019,False,COACHED
+coach_graeme_jones,club_newcastle_united,EPL-2024–25,20 October 2021,False,COACHED
+coach_eddie_howe,club_newcastle_united,EPL-2024–25,8 November 2021,True,COACHED
+coach_jason_tindall,club_newcastle_united,EPL-2024–25,13 April 2025,False,COACHED
+coach_unknown,club_manchester_united,EPL-2024–25,1878–1892,False,COACHED
+coach_a_h_albut,club_manchester_united,EPL-2024–25,1892–1900,False,COACHED
+coach_james_west,club_manchester_united,EPL-2024–25,1900–1903,False,COACHED
+coach_ernest_mangnall,club_manchester_united,EPL-2024–25,1903–1912,False,COACHED
+coach_john_bentley,club_manchester_united,EPL-2024–25,1912–1914,False,COACHED
+coach_jack_robson,club_manchester_united,EPL-2024–25,1914–1921,False,COACHED
+coach_john_chapman,club_manchester_united,EPL-2024–25,1921–1926,False,COACHED
+coach_lal_hilditch,club_manchester_united,EPL-2024–25,1926–1927,False,COACHED
+coach_herbert_bamlett,club_manchester_united,EPL-2024–25,1927–1931,False,COACHED
+coach_walter_crickmer,club_manchester_united,EPL-2024–25,1931–1932,False,COACHED
+coach_scott_duncan,club_manchester_united,EPL-2024–25,1932–1937,False,COACHED
+coach_walter_crickmer,club_manchester_united,EPL-2024–25,1937–1945,False,COACHED
+coach_matt_busby,club_manchester_united,EPL-2024–25,1945–1969,False,COACHED
+coach_jimmy_murphy,club_manchester_united,EPL-2024–25,1958,False,COACHED
+coach_wilf_mcguinness,club_manchester_united,EPL-2024–25,1969–1970,False,COACHED
+coach_matt_busby,club_manchester_united,EPL-2024–25,1970–1971,False,COACHED
+coach_frank_o_farrell,club_manchester_united,EPL-2024–25,1971–1972,False,COACHED
+coach_tommy_docherty,club_manchester_united,EPL-2024–25,1972–1977,False,COACHED
+coach_dave_sexton,club_manchester_united,EPL-2024–25,1977–1981,False,COACHED
+coach_ron_atkinson,club_manchester_united,EPL-2024–25,1981–1986,False,COACHED
+coach_alex_ferguson,club_manchester_united,EPL-2024–25,1986–2013,False,COACHED
+coach_david_moyes,club_manchester_united,EPL-2024–25,2013–2014,False,COACHED
+coach_ryan_giggs,club_manchester_united,EPL-2024–25,2014,False,COACHED
+coach_louis_van_gaal,club_manchester_united,EPL-2024–25,2014–2016,False,COACHED
+coach_jose_mourinho,club_manchester_united,EPL-2024–25,2016–2018,False,COACHED
+coach_ole_gunnar_solskjaer,club_manchester_united,EPL-2024–25,2018–2021,False,COACHED
+coach_michael_carrick,club_manchester_united,EPL-2024–25,2021,False,COACHED
+coach_ralf_rangnick,club_manchester_united,EPL-2024–25,2021–2022,False,COACHED
+coach_erik_ten_hag,club_manchester_united,EPL-2024–25,2022–2024,False,COACHED
+coach_ruud_van_nistelrooy,club_manchester_united,EPL-2024–25,2024,False,COACHED
+coach_ruben_amorim,club_manchester_united,EPL-2024–25,2024–,True,COACHED
+coach_tom_maley,club_manchester_city,EPL-2024–25,1902,False,COACHED
+coach_wilf_wild,club_manchester_city,EPL-2024–25,1932,False,COACHED
+coach_les_mcdowall,club_manchester_city,EPL-2024–25,1950,False,COACHED
+coach_joe_mercer,club_manchester_city,EPL-2024–25,1965,False,COACHED
+coach_tony_book,club_manchester_city,EPL-2024–25,1973,False,COACHED
+coach_roberto_mancini,club_manchester_city,EPL-2024–25,2009,False,COACHED
+coach_manuel_pellegrini,club_manchester_city,EPL-2024–25,2013,False,COACHED
+coach_pep_guardiola,club_manchester_city,EPL-2024–25,2016,True,COACHED
+coach_harry_radford,club_nottingham_forest,EPL-2024–25,1 August 1889,False,COACHED
+coach_harry_hallam,club_nottingham_forest,EPL-2024–25,1 August 1897,False,COACHED
+coach_fred_earp,club_nottingham_forest,EPL-2024–25,1 August 1909,False,COACHED
+coach_bob_masters,club_nottingham_forest,EPL-2024–25,1 August 1912,False,COACHED
+coach_john_baynes,club_nottingham_forest,EPL-2024–25,1 August 1925,False,COACHED
+coach_stan_hardy,club_nottingham_forest,EPL-2024–25,1 August 1930,False,COACHED
+coach_noel_watson,club_nottingham_forest,EPL-2024–25,1 August 1931,False,COACHED
+coach_harold_wightman,club_nottingham_forest,EPL-2024–25,1 August 1936,False,COACHED
+coach_billy_walker,club_nottingham_forest,EPL-2024–25,1 May 1939,False,COACHED
+coach_andy_beattie,club_nottingham_forest,EPL-2024–25,1 September 1960,False,COACHED
+coach_johnny_carey,club_nottingham_forest,EPL-2024–25,1 July 1963,False,COACHED
+coach_matt_gillies,club_nottingham_forest,EPL-2024–25,1 January 1969,False,COACHED
+coach_dave_mackay,club_nottingham_forest,EPL-2024–25,2 November 1972,False,COACHED
+coach_allan_brown,club_nottingham_forest,EPL-2024–25,19 November 1973,False,COACHED
+coach_brian_clough,club_nottingham_forest,EPL-2024–25,3 January 1975,False,COACHED
+coach_frank_clark,club_nottingham_forest,EPL-2024–25,13 May 1993,False,COACHED
+coach_stuart_pearce,club_nottingham_forest,EPL-2024–25,20 December 1996,False,COACHED
+coach_dave_bassett,club_nottingham_forest,EPL-2024–25,8 May 1997,False,COACHED
+coach_micky_adams,club_nottingham_forest,EPL-2024–25,5 January 1999,False,COACHED
+coach_ron_atkinson,club_nottingham_forest,EPL-2024–25,11 January 1999,False,COACHED
+coach_david_platt,club_nottingham_forest,EPL-2024–25,1 July 1999,False,COACHED
+coach_paul_hart,club_nottingham_forest,EPL-2024–25,12 July 2001,False,COACHED
+coach_joe_kinnear,club_nottingham_forest,EPL-2024–25,10 February 2004,False,COACHED
+coach_mick_harford,club_nottingham_forest,EPL-2024–25,16 December 2004,False,COACHED
+coach_gary_megson,club_nottingham_forest,EPL-2024–25,10 January 2005,False,COACHED
+coach_frank_barlow_ian_mcparland,club_nottingham_forest,EPL-2024–25,17 February 2006,False,COACHED
+coach_colin_calderwood,club_nottingham_forest,EPL-2024–25,30 May 2006,False,COACHED
+coach_john_pemberton,club_nottingham_forest,EPL-2024–25,27 December 2008,False,COACHED
+coach_billy_davies,club_nottingham_forest,EPL-2024–25,4 January 2009,False,COACHED
+coach_steve_mcclaren,club_nottingham_forest,EPL-2024–25,13 June 2011,False,COACHED
+coach_rob_kelly,club_nottingham_forest,EPL-2024–25,2 October 2011,False,COACHED
+coach_steve_cotterill,club_nottingham_forest,EPL-2024–25,14 October 2011,False,COACHED
+coach_sean_o_driscoll,club_nottingham_forest,EPL-2024–25,20 July 2012,False,COACHED
+coach_alex_mcleish,club_nottingham_forest,EPL-2024–25,27 December 2012,False,COACHED
+coach_rob_kelly,club_nottingham_forest,EPL-2024–25,5 February 2013,False,COACHED
+coach_billy_davies,club_nottingham_forest,EPL-2024–25,7 February 2013,False,COACHED
+coach_gary_brazil,club_nottingham_forest,EPL-2024–25,24 March 2014,False,COACHED
+coach_stuart_pearce,club_nottingham_forest,EPL-2024–25,1 July 2014,False,COACHED
+coach_dougie_freedman,club_nottingham_forest,EPL-2024–25,1 February 2015,False,COACHED
+coach_paul_williams,club_nottingham_forest,EPL-2024–25,13 March 2016,False,COACHED
+coach_philippe_montanier,club_nottingham_forest,EPL-2024–25,27 June 2016,False,COACHED
+coach_gary_brazil,club_nottingham_forest,EPL-2024–25,14 January 2017,False,COACHED
+coach_mark_warburton,club_nottingham_forest,EPL-2024–25,14 March 2017,False,COACHED
+coach_gary_brazil,club_nottingham_forest,EPL-2024–25,31 December 2017,False,COACHED
+coach_aitor_karanka,club_nottingham_forest,EPL-2024–25,8 January 2018,False,COACHED
+coach_simon_ireland,club_nottingham_forest,EPL-2024–25,11 January 2019,False,COACHED
+coach_martin_o_neill,club_nottingham_forest,EPL-2024–25,15 January 2019,False,COACHED
+coach_sabri_lamouchi,club_nottingham_forest,EPL-2024–25,28 June 2019,False,COACHED
+coach_chris_hughton,club_nottingham_forest,EPL-2024–25,6 October 2020,False,COACHED
+coach_steven_reid,club_nottingham_forest,EPL-2024–25,16 September 2021,False,COACHED
+coach_steve_cooper,club_nottingham_forest,EPL-2024–25,21 September 2021,False,COACHED
+coach_nuno_espirito_santo,club_nottingham_forest,EPL-2024–25,20 December 2023,False,COACHED
+coach_ange_postecoglou,club_nottingham_forest,EPL-2024–25,9 September 2025,False,COACHED
+coach_sean_dyche,club_nottingham_forest,EPL-2024–25,21 October 2025,True,COACHED
+coach_1937-1939_division_1_1946-1954_division_2_1954-1955_division_1_1955-1957_division_2_1957-1969_division_1_1969-1971_division_2,club_leicester_city,EPL-2024–25,1894–1908 Division 2 1908–1909 Division 1 1909–1915 Division 2 1919–1925 Division 2 1925–1935 Division 1 1935–1937 Division 2,True,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,1974–1978,False,COACHED
+coach_adidas,club_bournemouth,EPL-2024–25,1978–1980,False,COACHED
+coach_adidas,club_bournemouth,EPL-2024–25,1980–1981,False,COACHED
+coach_in-house,club_bournemouth,EPL-2024–25,1981–1982,False,COACHED
+coach_osca,club_bournemouth,EPL-2024–25,1982–1983,False,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,1983–1985,False,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,1985–1986,False,COACHED
+coach_hensons,club_bournemouth,EPL-2024–25,1986–1987,False,COACHED
+coach_scoreline,club_bournemouth,EPL-2024–25,1987–1988,False,COACHED
+coach_scoreline,club_bournemouth,EPL-2024–25,1988–1989,False,COACHED
+coach_scoreline,club_bournemouth,EPL-2024–25,1989–1990,False,COACHED
+coach_ellgren,club_bournemouth,EPL-2024–25,1990–1992,False,COACHED
+coach_matchwinner,club_bournemouth,EPL-2024–25,1992–1994,False,COACHED
+coach_matchwinner,club_bournemouth,EPL-2024–25,1994–1995,False,COACHED
+coach_le_coq_sportif,club_bournemouth,EPL-2024–25,1995–1996,False,COACHED
+coach_patrick,club_bournemouth,EPL-2024–25,1996–1997,False,COACHED
+coach_patrick,club_bournemouth,EPL-2024–25,1997–2000,False,COACHED
+coach_super_league,club_bournemouth,EPL-2024–25,2000–2001,False,COACHED
+coach_tfg_sports,club_bournemouth,EPL-2024–25,2001–2003,False,COACHED
+coach_bourne_red,club_bournemouth,EPL-2024–25,2003–2006,False,COACHED
+coach_bourne_red,club_bournemouth,EPL-2024–25,2006–2008,False,COACHED
+coach_carbrini_sportswear,club_bournemouth,EPL-2024–25,2008–2011,False,COACHED
+coach_fila,club_bournemouth,EPL-2024–25,2011–2012,False,COACHED
+coach_fila,club_bournemouth,EPL-2024–25,2012–2014,False,COACHED
+coach_carbrini_sportswear,club_bournemouth,EPL-2024–25,2014–2015,False,COACHED
+coach_jd_sports,club_bournemouth,EPL-2024–25,2015–2017,False,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,2017–2019,False,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,2019–2020,False,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,2020–2021,False,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,2021–2022,False,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,2022–2024,False,COACHED
+coach_umbro,club_bournemouth,EPL-2024–25,2024–,False,COACHED
+coach_nan,club_bournemouth,EPL-2024–25,Umbro,True,COACHED
+coach_harry_bradshaw,club_fulham,EPL-2024–25,1904,False,COACHED
+coach_phil_kelso,club_fulham,EPL-2024–25,1909,False,COACHED
+coach_andy_ducat,club_fulham,EPL-2024–25,1924,False,COACHED
+coach_joe_bradshaw,club_fulham,EPL-2024–25,1926,False,COACHED
+coach_ned_liddell,club_fulham,EPL-2024–25,1929,False,COACHED
+coach_jimmy_mcintyre,club_fulham,EPL-2024–25,1931,False,COACHED
+coach_jimmy_hogan,club_fulham,EPL-2024–25,1934,False,COACHED
+coach_jack_peart,club_fulham,EPL-2024–25,1935,False,COACHED
+coach_frank_osborne,club_fulham,EPL-2024–25,1948,False,COACHED
+coach_bill_dodgin_sr,club_fulham,EPL-2024–25,1949,False,COACHED
+coach_frank_osborne,club_fulham,EPL-2024–25,1953,False,COACHED
+coach_doug_livingstone,club_fulham,EPL-2024–25,1956,False,COACHED
+coach_bedford_jezzard,club_fulham,EPL-2024–25,1958,False,COACHED
+coach_vic_buckingham,club_fulham,EPL-2024–25,1965,False,COACHED
+coach_bobby_robson,club_fulham,EPL-2024–25,1968,False,COACHED
+coach_bill_dodgin_jr,club_fulham,EPL-2024–25,1969,False,COACHED
+coach_alec_stock,club_fulham,EPL-2024–25,1972,False,COACHED
+coach_bobby_campbell,club_fulham,EPL-2024–25,1976,False,COACHED
+coach_malcolm_macdonald,club_fulham,EPL-2024–25,1980,False,COACHED
+coach_ray_harford,club_fulham,EPL-2024–25,1984,False,COACHED
+coach_ray_lewington,club_fulham,EPL-2024–25,1986,False,COACHED
+coach_alan_dicks,club_fulham,EPL-2024–25,1990,False,COACHED
+coach_don_mackay,club_fulham,EPL-2024–25,1991,False,COACHED
+coach_ian_branfoot,club_fulham,EPL-2024–25,1994,False,COACHED
+coach_micky_adams,club_fulham,EPL-2024–25,1996,False,COACHED
+coach_ray_wilkins,club_fulham,EPL-2024–25,1997,False,COACHED
+coach_kevin_keegan,club_fulham,EPL-2024–25,1998,False,COACHED
+coach_paul_bracewell,club_fulham,EPL-2024–25,1999,False,COACHED
+coach_jean_tigana,club_fulham,EPL-2024–25,2000,False,COACHED
+coach_chris_coleman,club_fulham,EPL-2024–25,2003,False,COACHED
+coach_lawrie_sanchez,club_fulham,EPL-2024–25,2007,False,COACHED
+coach_roy_hodgson,club_fulham,EPL-2024–25,2007,False,COACHED
+coach_mark_hughes,club_fulham,EPL-2024–25,2010,False,COACHED
+coach_martin_jol,club_fulham,EPL-2024–25,2011,False,COACHED
+coach_rene_meulensteenss_-,club_fulham,EPL-2024–25,2013,False,COACHED
+coach_felix_magath,club_fulham,EPL-2024–25,2014,False,COACHED
+coach_kit_symons,club_fulham,EPL-2024–25,2014,False,COACHED
+coach_slavisa_jokanovic_-,club_fulham,EPL-2024–25,2015,False,COACHED
+coach_claudio_ranieri,club_fulham,EPL-2024–25,2018,False,COACHED
+coach_scott_parker_-,club_fulham,EPL-2024–25,2019,False,COACHED
+coach_marco_silva_-,club_fulham,EPL-2024–25,2021,True,COACHED
+coach_first_division,club_everton,EPL-2024–25,"1890–91, 1914–15, 1927–28, 1931–32, 1938–39, 1962–63, 1969–70, 1984–85, 1986–87",False,COACHED
+coach_second_division,club_everton,EPL-2024–25,1930–31,False,COACHED
+coach_fa_cup,club_everton,EPL-2024–25,"1905–06, 1932–33, 1965–66, 1983–84, 1994–95",False,COACHED
+coach_fa_charity_shield,club_everton,EPL-2024–25,"1928, 1932, 1963, 1970, 1984, 1985, 1986 , 1987, 1995",False,COACHED
+coach_uefa_cup_winners_cup,club_everton,EPL-2024–25,1984–85,True,COACHED
+coach_jack_robson,club_crystal_palace,EPL-2024–25,July 1905,False,COACHED
+coach_edmund_goodman,club_crystal_palace,EPL-2024–25,1 May 1907,False,COACHED
+coach_alex_maley,club_crystal_palace,EPL-2024–25,24 November 1925,False,COACHED
+coach_fred_mavin,club_crystal_palace,EPL-2024–25,21 November 1927,False,COACHED
+coach_jack_tresadern,club_crystal_palace,EPL-2024–25,27 October 1930,False,COACHED
+coach_tom_bromilow,club_crystal_palace,EPL-2024–25,July 1935 1 January 1937,False,COACHED
+coach_r_s_moyes,club_crystal_palace,EPL-2024–25,July 1936,False,COACHED
+coach_george_irwin,club_crystal_palace,EPL-2024–25,July 1939,False,COACHED
+coach_jack_butler,club_crystal_palace,EPL-2024–25,July 1947,False,COACHED
+coach_ronnie_rooke,club_crystal_palace,EPL-2024–25,June 1949,False,COACHED
+coach_fred_dawes_charlie_slade,club_crystal_palace,EPL-2024–25,29 November 1950,False,COACHED
+coach_laurie_scott,club_crystal_palace,EPL-2024–25,11 October 1951,False,COACHED
+coach_cyril_spiers,club_crystal_palace,EPL-2024–25,October 1954,False,COACHED
+coach_george_smith,club_crystal_palace,EPL-2024–25,July 1958,False,COACHED
+coach_arthur_rowe,club_crystal_palace,EPL-2024–25,15 April 1960,False,COACHED
+coach_dick_graham,club_crystal_palace,EPL-2024–25,30 November 1962,False,COACHED
+coach_bert_head,club_crystal_palace,EPL-2024–25,18 April 1966,False,COACHED
+coach_malcolm_allison,club_crystal_palace,EPL-2024–25,30 March 1973 1 December 1980,False,COACHED
+coach_terry_venables,club_crystal_palace,EPL-2024–25,1 June 1976 9 June 1998,False,COACHED
+coach_dario_gradi,club_crystal_palace,EPL-2024–25,26 January 1981,False,COACHED
+coach_steve_kember,club_crystal_palace,EPL-2024–25,10 November 1981 18 April 2003,False,COACHED
+coach_alan_mullery,club_crystal_palace,EPL-2024–25,July 1982,False,COACHED
+coach_steve_coppell,club_crystal_palace,EPL-2024–25,July 1984 July 1995 28 February 1997 15 January 1999,False,COACHED
+coach_alan_smith,club_crystal_palace,EPL-2024–25,3 June 1993 1 August 2000,False,COACHED
+coach_dave_bassett,club_crystal_palace,EPL-2024–25,8 February 1996,False,COACHED
+coach_attilio_lombardo,club_crystal_palace,EPL-2024–25,13 March 1998,False,COACHED
+coach_steve_bruce,club_crystal_palace,EPL-2024–25,30 May 2001,False,COACHED
+coach_trevor_francis,club_crystal_palace,EPL-2024–25,30 November 2001,False,COACHED
+coach_iain_dowie,club_crystal_palace,EPL-2024–25,22 December 2003,False,COACHED
+coach_peter_taylor,club_crystal_palace,EPL-2024–25,13 June 2006,False,COACHED
+coach_neil_warnock,club_crystal_palace,EPL-2024–25,11 October 2007 27 August 2014,False,COACHED
+coach_paul_hart,club_crystal_palace,EPL-2024–25,2 March 2010,False,COACHED
+coach_george_burley,club_crystal_palace,EPL-2024–25,17 June 2010,False,COACHED
+coach_dougie_freedman,club_crystal_palace,EPL-2024–25,11 January 2011,False,COACHED
+coach_ian_holloway,club_crystal_palace,EPL-2024–25,3 November 2012,False,COACHED
+coach_tony_pulis,club_crystal_palace,EPL-2024–25,23 November 2013,False,COACHED
+coach_alan_pardew,club_crystal_palace,EPL-2024–25,2 January 2015,False,COACHED
+coach_sam_allardyce,club_crystal_palace,EPL-2024–25,23 December 2016,False,COACHED
+coach_frank_de_boer,club_crystal_palace,EPL-2024–25,26 June 2017,False,COACHED
+coach_roy_hodgson,club_crystal_palace,EPL-2024–25,12 September 2017 21 March 2023,False,COACHED
+coach_patrick_vieira,club_crystal_palace,EPL-2024–25,4 July 2021,False,COACHED
+coach_oliver_glasner,club_crystal_palace,EPL-2024–25,19 February 2024,True,COACHED
+coach_ted_drake,club_chelsea,EPL-2024–25,1952–1961,False,COACHED
+coach_tommy_docherty,club_chelsea,EPL-2024–25,1962–1967,False,COACHED
+coach_dave_sexton,club_chelsea,EPL-2024–25,1967–1974,False,COACHED
+coach_john_neal,club_chelsea,EPL-2024–25,1981–1985,False,COACHED
+coach_john_hollins,club_chelsea,EPL-2024–25,1985–1988,False,COACHED
+coach_bobby_campbell,club_chelsea,EPL-2024–25,1988–1991,False,COACHED
+coach_ruud_gullit,club_chelsea,EPL-2024–25,1996–1998,False,COACHED
+coach_gianluca_vialli,club_chelsea,EPL-2024–25,1998–2000,False,COACHED
+coach_jose_mourinho,club_chelsea,EPL-2024–25,2004–2007 2013–2015,False,COACHED
+coach_guus_hiddink,club_chelsea,EPL-2024–25,2009 2015–2016,False,COACHED
+coach_carlo_ancelotti,club_chelsea,EPL-2024–25,2009–2011,False,COACHED
+coach_roberto_di_matteo,club_chelsea,EPL-2024–25,2012,False,COACHED
+coach_rafael_benitez,club_chelsea,EPL-2024–25,2012–2013,False,COACHED
+coach_antonio_conte,club_chelsea,EPL-2024–25,2016–2018,False,COACHED
+coach_maurizio_sarri,club_chelsea,EPL-2024–25,2018–2019,False,COACHED
+coach_thomas_tuchel,club_chelsea,EPL-2024–25,2021–2022,False,COACHED
+coach_enzo_maresca,club_chelsea,EPL-2024–25,2024–,True,COACHED
+coach_head_coach,club_brighton_hove_albion,EPL-2024–25,Head Coach,False,COACHED
+coach_assistant_head_coaches,club_brighton_hove_albion,EPL-2024–25,Assistant Head Coaches,False,COACHED
+coach_goalkeeping_coach,club_brighton_hove_albion,EPL-2024–25,Goalkeeping Coach,False,COACHED
+coach_set-piece_coach,club_brighton_hove_albion,EPL-2024–25,Set-Piece Coach,False,COACHED
+coach_chief_analyst,club_brighton_hove_albion,EPL-2024–25,Chief Analyst,False,COACHED
+coach_tactical_analysts,club_brighton_hove_albion,EPL-2024–25,Tactical Analysts,False,COACHED
+coach_recruitment,club_brighton_hove_albion,EPL-2024–25,Recruitment,False,COACHED
+coach_head_of_recruitment,club_brighton_hove_albion,EPL-2024–25,Head of Recruitment,False,COACHED
+coach_loan_manager,club_brighton_hove_albion,EPL-2024–25,Loan Manager,False,COACHED
+coach_academy,club_brighton_hove_albion,EPL-2024–25,Academy,False,COACHED
+coach_academy_manager,club_brighton_hove_albion,EPL-2024–25,Academy Manager,False,COACHED
+coach_under-21s_head_coach,club_brighton_hove_albion,EPL-2024–25,Under-21s Head Coach,False,COACHED
+coach_under-18s_head_coach,club_brighton_hove_albion,EPL-2024–25,Under-18s Head Coach,False,COACHED
+coach_medical_performance,club_brighton_hove_albion,EPL-2024–25,Medical & Performance,False,COACHED
+coach_head_of_medicine,club_brighton_hove_albion,EPL-2024–25,Head of Medicine,False,COACHED
+coach_head_of_performance,club_brighton_hove_albion,EPL-2024–25,Head of Performance,False,COACHED
+coach_club_doctor,club_brighton_hove_albion,EPL-2024–25,Club Doctor,True,COACHED
+coach_william_lewis,club_brentford,EPL-2024–25,August 1900,False,COACHED
+coach_dick_molyneux,club_brentford,EPL-2024–25,August 1903,False,COACHED
+coach_william_lewis,club_brentford,EPL-2024–25,March 1904,False,COACHED
+coach_bob_crone,club_brentford,EPL-2024–25,January 1906,False,COACHED
+coach_william_brown,club_brentford,EPL-2024–25,February 1906,False,COACHED
+coach_george_parsonage,club_brentford,EPL-2024–25,January 1908,False,COACHED
+coach_fred_halliday,club_brentford,EPL-2024–25,24 June 1908,False,COACHED
+coach_dusty_rhodes,club_brentford,EPL-2024–25,14 November 1912,False,COACHED
+coach_fred_halliday,club_brentford,EPL-2024–25,August 1915,False,COACHED
+coach_archie_mitchell,club_brentford,EPL-2024–25,August 1921,False,COACHED
+coach_fred_halliday,club_brentford,EPL-2024–25,3 December 1924,False,COACHED
+coach_harry_curtis,club_brentford,EPL-2024–25,May 1926,False,COACHED
+coach_jackie_gibbons,club_brentford,EPL-2024–25,February 1949,False,COACHED
+coach_jimmy_bain,club_brentford,EPL-2024–25,August 1952,False,COACHED
+coach_tommy_lawton,club_brentford,EPL-2024–25,January 1953,False,COACHED
+coach_fred_monk,club_brentford,EPL-2024–25,September 1953,False,COACHED
+coach_bill_dodgin_sr,club_brentford,EPL-2024–25,October 1953,False,COACHED
+coach_malky_macdonald,club_brentford,EPL-2024–25,May 1957,False,COACHED
+coach_tommy_cavanagh,club_brentford,EPL-2024–25,January 1965,False,COACHED
+coach_ian_black,club_brentford,EPL-2024–25,18 April 1966,False,COACHED
+coach_billy_gray,club_brentford,EPL-2024–25,2 May 1966,False,COACHED
+coach_jimmy_sirrel,club_brentford,EPL-2024–25,March 1967,False,COACHED
+coach_ron_fenton,club_brentford,EPL-2024–25,10 November 1969,False,COACHED
+coach_frank_blunstone,club_brentford,EPL-2024–25,December 1969,False,COACHED
+coach_mike_everitt,club_brentford,EPL-2024–25,16 August 1973,False,COACHED
+coach_jess_willard,club_brentford,EPL-2024–25,15 January 1975,False,COACHED
+coach_john_docherty,club_brentford,EPL-2024–25,20 January 1975,False,COACHED
+coach_eddie_lyons,club_brentford,EPL-2024–25,7 September 1976,False,COACHED
+coach_bill_dodgin_jr,club_brentford,EPL-2024–25,16 September 1976,False,COACHED
+coach_fred_callaghan,club_brentford,EPL-2024–25,March 1980,False,COACHED
+coach_frank_blunstone,club_brentford,EPL-2024–25,2 February 1984,False,COACHED
+coach_frank_mclintock,club_brentford,EPL-2024–25,9 February 1984,False,COACHED
+coach_steve_perryman,club_brentford,EPL-2024–25,25 January 1987,False,COACHED
+coach_phil_holder,club_brentford,EPL-2024–25,24 August 1990,False,COACHED
+coach_david_webb,club_brentford,EPL-2024–25,17 May 1993,False,COACHED
+coach_kevin_lock,club_brentford,EPL-2024–25,5 August 1997,False,COACHED
+coach_eddie_may,club_brentford,EPL-2024–25,12 August 1997,False,COACHED
+coach_micky_adams,club_brentford,EPL-2024–25,5 November 1997,False,COACHED
+coach_ron_noades,club_brentford,EPL-2024–25,1 July 1998,False,COACHED
+coach_ray_lewington,club_brentford,EPL-2024–25,20 November 2000,False,COACHED
+coach_steve_coppell,club_brentford,EPL-2024–25,8 May 2001,False,COACHED
+coach_wally_downes,club_brentford,EPL-2024–25,28 June 2002,False,COACHED
+coach_garry_thompson,club_brentford,EPL-2024–25,14 March 2004,False,COACHED
+coach_martin_allen,club_brentford,EPL-2024–25,18 March 2004,False,COACHED
+coach_leroy_rosenior,club_brentford,EPL-2024–25,14 June 2006,False,COACHED
+coach_scott_fitzgerald,club_brentford,EPL-2024–25,18 November 2006,False,COACHED
+coach_barry_quin,club_brentford,EPL-2024–25,10 April 2007,False,COACHED
+coach_terry_butcher,club_brentford,EPL-2024–25,7 May 2007,False,COACHED
+coach_andy_scott,club_brentford,EPL-2024–25,11 December 2007,False,COACHED
+coach_nicky_forster,club_brentford,EPL-2024–25,3 February 2011,False,COACHED
+coach_uwe_rosler,club_brentford,EPL-2024–25,10 June 2011,False,COACHED
+coach_alan_kernaghan,club_brentford,EPL-2024–25,7 December 2013,False,COACHED
+coach_mark_warburton,club_brentford,EPL-2024–25,10 December 2013,False,COACHED
+coach_marinus_dijkhuizen,club_brentford,EPL-2024–25,1 June 2015,False,COACHED
+coach_lee_carsley,club_brentford,EPL-2024–25,28 September 2015,False,COACHED
+coach_dean_smith,club_brentford,EPL-2024–25,30 November 2015,False,COACHED
+coach_thomas_frank,club_brentford,EPL-2024–25,16 October 2018,False,COACHED
+coach_keith_andrews,club_brentford,EPL-2024–25,27 June 2025,True,COACHED
+coach_mick_o_brien,club_ipswich_town,EPL-2024–25,29 May 1936,False,COACHED
+coach_scott_duncan,club_ipswich_town,EPL-2024–25,12 November 1937,False,COACHED
+coach_alf_ramsey,club_ipswich_town,EPL-2024–25,8 August 1955,False,COACHED
+coach_jackie_milburn,club_ipswich_town,EPL-2024–25,1 May 1963,False,COACHED
+coach_bill_mcgarry,club_ipswich_town,EPL-2024–25,5 October 1964,False,COACHED
+coach_bobby_robson,club_ipswich_town,EPL-2024–25,13 January 1969,False,COACHED
+coach_bobby_ferguson,club_ipswich_town,EPL-2024–25,19 August 1982,False,COACHED
+coach_john_duncan,club_ipswich_town,EPL-2024–25,17 June 1987,False,COACHED
+coach_john_lyall,club_ipswich_town,EPL-2024–25,11 May 1990,False,COACHED
+coach_george_burley,club_ipswich_town,EPL-2024–25,28 December 1994,False,COACHED
+coach_joe_royle,club_ipswich_town,EPL-2024–25,28 October 2002,False,COACHED
+coach_jim_magilton,club_ipswich_town,EPL-2024–25,5 June 2006,False,COACHED
+coach_roy_keane,club_ipswich_town,EPL-2024–25,23 April 2009,False,COACHED
+coach_paul_jewell,club_ipswich_town,EPL-2024–25,13 January 2011,False,COACHED
+coach_mick_mccarthy,club_ipswich_town,EPL-2024–25,1 November 2012,False,COACHED
+coach_paul_hurst,club_ipswich_town,EPL-2024–25,30 May 2018,False,COACHED
+coach_paul_lambert,club_ipswich_town,EPL-2024–25,27 October 2018,False,COACHED
+coach_paul_cook,club_ipswich_town,EPL-2024–25,2 March 2021,False,COACHED
+coach_kieran_mckenna,club_ipswich_town,EPL-2024–25,20 December 2021,True,COACHED
+coach_j_b_wostinholm,club_sheffield_united,EPL-2024–25,22 March 1889,False,COACHED
+coach_john_nicholson,club_sheffield_united,EPL-2024–25,1 June 1899,False,COACHED
+coach_teddy_davison,club_sheffield_united,EPL-2024–25,15 June 1932,False,COACHED
+coach_reg_freeman,club_sheffield_united,EPL-2024–25,1 August 1952,False,COACHED
+coach_joe_mercer,club_sheffield_united,EPL-2024–25,18 August 1955,False,COACHED
+coach_archie_clark,club_sheffield_united,EPL-2024–25,25 December 1958,False,COACHED
+coach_john_harris,club_sheffield_united,EPL-2024–25,13 April 1959,False,COACHED
+coach_arthur_rowley,club_sheffield_united,EPL-2024–25,11 July 1968,False,COACHED
+coach_john_harris,club_sheffield_united,EPL-2024–25,6 August 1969,False,COACHED
+coach_ken_furphy,club_sheffield_united,EPL-2024–25,7 December 1973,False,COACHED
+coach_cec_coldwell,club_sheffield_united,EPL-2024–25,6 October 1975,False,COACHED
+coach_jimmy_sirrel,club_sheffield_united,EPL-2024–25,16 October 1975,False,COACHED
+coach_cec_coldwell,club_sheffield_united,EPL-2024–25,27 September 1977,False,COACHED
+coach_harry_haslam,club_sheffield_united,EPL-2024–25,26 January 1978,False,COACHED
+coach_martin_peters,club_sheffield_united,EPL-2024–25,18 January 1981,False,COACHED
+coach_ian_porterfield,club_sheffield_united,EPL-2024–25,6 June 1981,False,COACHED
+coach_billy_mcewan,club_sheffield_united,EPL-2024–25,27 March 1986,False,COACHED
+coach_dave_bassett,club_sheffield_united,EPL-2024–25,21 January 1988,False,COACHED
+coach_howard_kendall,club_sheffield_united,EPL-2024–25,13 December 1995,False,COACHED
+coach_nigel_spackman,club_sheffield_united,EPL-2024–25,27 June 1997,False,COACHED
+coach_russell_slade,club_sheffield_united,EPL-2024–25,2 March 1998,False,COACHED
+coach_steve_thompson,club_sheffield_united,EPL-2024–25,9 March 1998,False,COACHED
+coach_steve_bruce,club_sheffield_united,EPL-2024–25,2 July 1998,False,COACHED
+coach_adrian_heath,club_sheffield_united,EPL-2024–25,15 June 1999,False,COACHED
+coach_russell_slade,club_sheffield_united,EPL-2024–25,23 November 1999,False,COACHED
+coach_neil_warnock,club_sheffield_united,EPL-2024–25,2 December 1999,False,COACHED
+coach_bryan_robson,club_sheffield_united,EPL-2024–25,22 May 2007,False,COACHED
+coach_kevin_blackwell,club_sheffield_united,EPL-2024–25,14 February 2008,False,COACHED
+coach_gary_speed,club_sheffield_united,EPL-2024–25,17 August 2010,False,COACHED
+coach_john_carver,club_sheffield_united,EPL-2024–25,14 December 2010,False,COACHED
+coach_micky_adams,club_sheffield_united,EPL-2024–25,30 December 2010,False,COACHED
+coach_danny_wilson,club_sheffield_united,EPL-2024–25,27 May 2011,False,COACHED
+coach_chris_morgan,club_sheffield_united,EPL-2024–25,10 April 2013,False,COACHED
+coach_david_weir,club_sheffield_united,EPL-2024–25,10 June 2013,False,COACHED
+coach_chris_morgan,club_sheffield_united,EPL-2024–25,11 October 2013,False,COACHED
+coach_nigel_clough,club_sheffield_united,EPL-2024–25,23 October 2013,False,COACHED
+coach_nigel_adkins,club_sheffield_united,EPL-2024–25,2 June 2015,False,COACHED
+coach_chris_wilder,club_sheffield_united,EPL-2024–25,12 May 2016,True,COACHED
+coach_paul_heckingbottom,club_sheffield_united,EPL-2024–25,13 March 2021,False,COACHED
+coach_slavisa_jokanovic,club_sheffield_united,EPL-2024–25,27 May 2021,False,COACHED
+coach_paul_heckingbottom,club_sheffield_united,EPL-2024–25,25 November 2021,False,COACHED
+coach_chris_wilder,club_sheffield_united,EPL-2024–25,5 December 2023,False,COACHED
+coach_ruben_selles,club_sheffield_united,EPL-2024–25,18 June 2025,False,COACHED
+coach_chris_wilder,club_sheffield_united,EPL-2024–25,15 September 2025,False,COACHED
+coach_john_mccartney,club_luton_town,EPL-2024–25,14 September 1927,False,COACHED
+coach_george_kay,club_luton_town,EPL-2024–25,23 December 1929,False,COACHED
+coach_harold_wightman,club_luton_town,EPL-2024–25,1 June 1931,False,COACHED
+coach_ned_liddell,club_luton_town,EPL-2024–25,13 August 1936,False,COACHED
+coach_dally_duncan,club_luton_town,EPL-2024–25,13 June 1947,False,COACHED
+coach_sam_bartram,club_luton_town,EPL-2024–25,18 July 1960,False,COACHED
+coach_bill_harvey,club_luton_town,EPL-2024–25,24 July 1962,False,COACHED
+coach_george_martin,club_luton_town,EPL-2024–25,16 February 1965,False,COACHED
+coach_allan_brown,club_luton_town,EPL-2024–25,4 November 1966,False,COACHED
+coach_alec_stock,club_luton_town,EPL-2024–25,20 December 1968,False,COACHED
+coach_harry_haslam,club_luton_town,EPL-2024–25,4 May 1972,False,COACHED
+coach_david_pleat,club_luton_town,EPL-2024–25,24 January 1978,False,COACHED
+coach_ray_harford,club_luton_town,EPL-2024–25,16 June 1987,False,COACHED
+coach_jim_ryan,club_luton_town,EPL-2024–25,11 January 1990,False,COACHED
+coach_david_pleat,club_luton_town,EPL-2024–25,7 June 1991,False,COACHED
+coach_lennie_lawrence,club_luton_town,EPL-2024–25,21 December 1995,False,COACHED
+coach_joe_kinnear,club_luton_town,EPL-2024–25,8 February 2001,False,COACHED
+coach_mike_newell,club_luton_town,EPL-2024–25,23 June 2003,False,COACHED
+coach_mick_harford,club_luton_town,EPL-2024–25,16 January 2008,False,COACHED
+coach_richard_money,club_luton_town,EPL-2024–25,30 October 2009,False,COACHED
+coach_gary_brabin,club_luton_town,EPL-2024–25,28 March 2011,False,COACHED
+coach_john_still,club_luton_town,EPL-2024–25,26 February 2013,False,COACHED
+coach_nathan_jones,club_luton_town,EPL-2024–25,6 January 2016,False,COACHED
+coach_nathan_jones,club_luton_town,EPL-2024–25,28 May 2020,False,COACHED
+coach_rob_edwards,club_luton_town,EPL-2024–25,17 November 2022,True,COACHED
+coach_alan_pace,club_burnley,EPL-2024–25,Chairman,False,COACHED
+coach_dave_checketts_antonio_davila_stuart_hunt_mike_smith_vlad_torgovnik,club_burnley,EPL-2024–25,Members,True,COACHED
+coach_dick_ray,club_leeds_united,EPL-2024–25,17 October 1919,False,COACHED
+coach_arthur_fairclough,club_leeds_united,EPL-2024–25,1 February 1920,False,COACHED
+coach_dick_ray,club_leeds_united,EPL-2024–25,1 July 1927,False,COACHED
+coach_billy_hampson,club_leeds_united,EPL-2024–25,1 July 1935,False,COACHED
+coach_willis_edwards,club_leeds_united,EPL-2024–25,1 May 1947,False,COACHED
+coach_major_frank_buckley,club_leeds_united,EPL-2024–25,1 May 1948,False,COACHED
+coach_raich_carter,club_leeds_united,EPL-2024–25,1 May 1953,False,COACHED
+coach_bill_lambton,club_leeds_united,EPL-2024–25,23 August 1958,False,COACHED
+coach_bob_roxburgh,club_leeds_united,EPL-2024–25,7 March 1959,False,COACHED
+coach_jack_taylor,club_leeds_united,EPL-2024–25,1 May 1959,False,COACHED
+coach_don_revie,club_leeds_united,EPL-2024–25,1 March 1961,False,COACHED
+coach_brian_clough,club_leeds_united,EPL-2024–25,30 July 1974,False,COACHED
+coach_maurice_lindley,club_leeds_united,EPL-2024–25,12 September 1974,False,COACHED
+coach_jimmy_armfield,club_leeds_united,EPL-2024–25,4 October 1974,False,COACHED
+coach_jock_stein,club_leeds_united,EPL-2024–25,21 August 1978,False,COACHED
+coach_jimmy_adamson,club_leeds_united,EPL-2024–25,25 October 1978,False,COACHED
+coach_david_merrington,club_leeds_united,EPL-2024–25,1 October 1980,False,COACHED
+coach_allan_clarke,club_leeds_united,EPL-2024–25,1 October 1980,False,COACHED
+coach_eddie_gray,club_leeds_united,EPL-2024–25,4 July 1982,False,COACHED
+coach_peter_gunby,club_leeds_united,EPL-2024–25,11 October 1985,False,COACHED
+coach_billy_bremner,club_leeds_united,EPL-2024–25,11 October 1985,False,COACHED
+coach_peter_gunby,club_leeds_united,EPL-2024–25,28 September 1988,False,COACHED
+coach_howard_wilkinson,club_leeds_united,EPL-2024–25,10 October 1988,False,COACHED
+coach_george_graham,club_leeds_united,EPL-2024–25,10 September 1996,False,COACHED
+coach_david_o_leary,club_leeds_united,EPL-2024–25,1 October 1998,False,COACHED
+coach_terry_venables,club_leeds_united,EPL-2024–25,8 July 2002,False,COACHED
+coach_peter_reid,club_leeds_united,EPL-2024–25,21 March 2003,False,COACHED
+coach_eddie_gray,club_leeds_united,EPL-2024–25,10 November 2003,False,COACHED
+coach_kevin_blackwell,club_leeds_united,EPL-2024–25,1 June 2004,False,COACHED
+coach_john_carver,club_leeds_united,EPL-2024–25,21 September 2006,False,COACHED
+coach_david_geddis,club_leeds_united,EPL-2024–25,24 October 2006,False,COACHED
+coach_dennis_wise,club_leeds_united,EPL-2024–25,24 October 2006,False,COACHED
+coach_gwyn_williams,club_leeds_united,EPL-2024–25,29 January 2008,False,COACHED
+coach_gary_mcallister,club_leeds_united,EPL-2024–25,30 January 2008,False,COACHED
+coach_simon_grayson,club_leeds_united,EPL-2024–25,23 December 2008,False,COACHED
+coach_neil_redfearn,club_leeds_united,EPL-2024–25,1 February 2012,False,COACHED
+coach_neil_warnock,club_leeds_united,EPL-2024–25,18 February 2012,False,COACHED
+coach_neil_redfearn,club_leeds_united,EPL-2024–25,1 April 2013,False,COACHED
+coach_brian_mcdermott,club_leeds_united,EPL-2024–25,12 April 2013,False,COACHED
+coach_dave_hockaday,club_leeds_united,EPL-2024–25,1 July 2014,False,COACHED
+coach_neil_redfearn,club_leeds_united,EPL-2024–25,28 August 2014,False,COACHED
+coach_darko_milanic,club_leeds_united,EPL-2024–25,23 September 2014,False,COACHED
+coach_neil_redfearn,club_leeds_united,EPL-2024–25,1 November 2014,False,COACHED
+coach_uwe_rosler,club_leeds_united,EPL-2024–25,1 July 2015,False,COACHED
+coach_steve_evans,club_leeds_united,EPL-2024–25,19 October 2015,False,COACHED
+coach_garry_monk,club_leeds_united,EPL-2024–25,2 June 2016,False,COACHED
+coach_thomas_christiansen,club_leeds_united,EPL-2024–25,15 June 2017,False,COACHED
+coach_paul_heckingbottom,club_leeds_united,EPL-2024–25,6 February 2018,False,COACHED
+coach_marcelo_bielsa,club_leeds_united,EPL-2024–25,15 June 2018,False,COACHED
+coach_jesse_marsch,club_leeds_united,EPL-2024–25,28 February 2022,False,COACHED
+coach_michael_skubala,club_leeds_united,EPL-2024–25,6 February 2023,False,COACHED
+coach_javi_gracia,club_leeds_united,EPL-2024–25,21 February 2023,False,COACHED
+coach_sam_allardyce,club_leeds_united,EPL-2024–25,3 May 2023,False,COACHED
+coach_daniel_farke,club_leeds_united,EPL-2024–25,4 July 2023,True,COACHED
+coach_javi_gracia,club_watford,EPL-2024–25,Head coach,True,COACHED
+coach_zigor_aranalde,club_watford,EPL-2024–25,Assistant head coach,False,COACHED
+coach_inigo_arteaga,club_watford,EPL-2024–25,Goalkeeping coach,False,COACHED
+coach_andrew_douglas_lewis_boulter,club_watford,EPL-2024–25,First-team analysts,False,COACHED
+coach_richard_ainsley,club_watford,EPL-2024–25,Sporting director,False,COACHED
+coach_valon_behrami,club_watford,EPL-2024–25,Assistant to sporting director,False,COACHED
+coach_richard_johnson,club_watford,EPL-2024–25,Academy director,False,COACHED
+coach_micah_hyde,club_watford,EPL-2024–25,Academy head of coaching,False,COACHED
+coach_charlie_daniels,club_watford,EPL-2024–25,Under-21s lead coach,False,COACHED
+coach_adrian_mariappa,club_watford,EPL-2024–25,Under-21s assistant coach,False,COACHED
+coach_dan_gosling,club_watford,EPL-2024–25,Under-18s lead coach,False,COACHED
+coach_lloyd_doyley,club_watford,EPL-2024–25,Under-18s assistant coach,False,COACHED
+coach_gary_phillips,club_watford,EPL-2024–25,Head of academy goalkeeping,False,COACHED
+coach_john_bowman,club_norwich_city,EPL-2024–25,1 August 1905,False,COACHED
+coach_james_mcewen,club_norwich_city,EPL-2024–25,1 August 1907,False,COACHED
+coach_arthur_turner,club_norwich_city,EPL-2024–25,1 August 1909,False,COACHED
+coach_bert_stansfield,club_norwich_city,EPL-2024–25,1 August 1910,False,COACHED
+coach_frank_buckley,club_norwich_city,EPL-2024–25,1 August 1919,False,COACHED
+coach_charles_o_hagan,club_norwich_city,EPL-2024–25,1 July 1920,False,COACHED
+coach_bert_gosnell,club_norwich_city,EPL-2024–25,1 January 1921,False,COACHED
+coach_bert_stansfield,club_norwich_city,EPL-2024–25,1 March 1926,False,COACHED
+coach_cecil_potter,club_norwich_city,EPL-2024–25,1 November 1926,False,COACHED
+coach_james_kerr,club_norwich_city,EPL-2024–25,1 April 1929,False,COACHED
+coach_tom_parker,club_norwich_city,EPL-2024–25,1 March 1933 1 May 1955,False,COACHED
+coach_bob_young,club_norwich_city,EPL-2024–25,1 February 1937 1 September 1939,False,COACHED
+coach_jimmy_jewell,club_norwich_city,EPL-2024–25,1 January 1939,False,COACHED
+coach_duggie_lochhead,club_norwich_city,EPL-2024–25,1 December 1945,False,COACHED
+coach_cyril_spiers,club_norwich_city,EPL-2024–25,1 June 1946,False,COACHED
+coach_norman_low,club_norwich_city,EPL-2024–25,1 May 1950,False,COACHED
+coach_archie_macaulay,club_norwich_city,EPL-2024–25,1 April 1957,False,COACHED
+coach_willie_reid,club_norwich_city,EPL-2024–25,1 December 1961,False,COACHED
+coach_george_swindin,club_norwich_city,EPL-2024–25,1 May 1962,False,COACHED
+coach_ron_ashman,club_norwich_city,EPL-2024–25,1 December 1962,False,COACHED
+coach_lol_morgan,club_norwich_city,EPL-2024–25,1 June 1966,False,COACHED
+coach_ron_saunders,club_norwich_city,EPL-2024–25,1 July 1969,False,COACHED
+coach_john_bond,club_norwich_city,EPL-2024–25,27 November 1973,False,COACHED
+coach_ken_brown,club_norwich_city,EPL-2024–25,1 November 1980,False,COACHED
+coach_dave_stringer,club_norwich_city,EPL-2024–25,9 November 1987,False,COACHED
+coach_mike_walker,club_norwich_city,EPL-2024–25,1 June 1992 21 June 1996,False,COACHED
+coach_john_deehan,club_norwich_city,EPL-2024–25,12 January 1994,False,COACHED
+coach_martin_o_neill,club_norwich_city,EPL-2024–25,August 1995,False,COACHED
+coach_gary_megson,club_norwich_city,EPL-2024–25,December 1995,False,COACHED
+coach_bruce_rioch,club_norwich_city,EPL-2024–25,12 June 1998,False,COACHED
+coach_bryan_hamilton,club_norwich_city,EPL-2024–25,5 April 2000,False,COACHED
+coach_nigel_worthington,club_norwich_city,EPL-2024–25,4 December 2000,False,COACHED
+coach_peter_grant,club_norwich_city,EPL-2024–25,13 October 2006,False,COACHED
+coach_glenn_roeder,club_norwich_city,EPL-2024–25,30 October 2007,False,COACHED
+coach_bryan_gunn,club_norwich_city,EPL-2024–25,16 January 2009,False,COACHED
+coach_paul_lambert,club_norwich_city,EPL-2024–25,18 August 2009,False,COACHED
+coach_chris_hughton,club_norwich_city,EPL-2024–25,6 June 2012,False,COACHED
+coach_neil_adams,club_norwich_city,EPL-2024–25,6 April 2014,False,COACHED
+coach_alex_neil,club_norwich_city,EPL-2024–25,9 January 2015,False,COACHED
+coach_daniel_farke,club_norwich_city,EPL-2024–25,25 May 2017,False,COACHED
+coach_dean_smith,club_norwich_city,EPL-2024–25,15 November 2021,False,COACHED
+coach_david_wagner,club_norwich_city,EPL-2024–25,6 January 2023,False,COACHED
+coach_johannes_hoff_thorup,club_norwich_city,EPL-2024–25,30 May 2024,False,COACHED
+coach_liam_manning,club_norwich_city,EPL-2024–25,3 June 2025,True,COACHED
+coach_louis_ford,club_west_bromwich_albion,EPL-2024–25,1890–92,False,COACHED
+coach_edward_stephenson,club_west_bromwich_albion,EPL-2024–25,1894–95,False,COACHED
+coach_frank_heaven,club_west_bromwich_albion,EPL-2024–25,1896–02,False,COACHED
+coach_fred_everiss,club_west_bromwich_albion,EPL-2024–25,1902–48,False,COACHED
+coach_jack_smith,club_west_bromwich_albion,EPL-2024–25,1948–52,False,COACHED
+coach_vic_buckingham,club_west_bromwich_albion,EPL-2024–25,1953–59,False,COACHED
+coach_jimmy_hagan,club_west_bromwich_albion,EPL-2024–25,1963–67,False,COACHED
+coach_alan_ashman,club_west_bromwich_albion,EPL-2024–25,1967–71,False,COACHED
+coach_johnny_giles,club_west_bromwich_albion,EPL-2024–25,"1975–77, 1984–85",False,COACHED
+coach_ron_atkinson,club_west_bromwich_albion,EPL-2024–25,"1978–81, 1987–88",False,COACHED
+coach_osvaldo_ardiles,club_west_bromwich_albion,EPL-2024–25,1992–93,False,COACHED
+coach_gary_megson,club_west_bromwich_albion,EPL-2024–25,2000–04,False,COACHED
+coach_tony_mowbray,club_west_bromwich_albion,EPL-2024–25,2006–09,False,COACHED
+coach_roberto_di_matteo,club_west_bromwich_albion,EPL-2024–25,2009–11,False,COACHED
+coach_slaven_bilic,club_west_bromwich_albion,EPL-2024–25,2019–20,True,COACHED

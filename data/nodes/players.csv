@@ -1,0 +1,750 @@
+﻿player_id,name,nation,position
+player_david_raya,David Raya,ESP,GK
+player_william_saliba,William Saliba,FRA,DF
+player_cristhian_mosquera,Cristhian Mosquera,ESP,DF
+player_ben_white,Ben White,ENG,DF
+player_piero_hincapie_on_loan_from_bayer_leverkusen,Piero Hincapié (on loan from Bayer Leverkusen),ECU,DF
+player_gabriel_magalhaes,Gabriel Magalhães,BRA,DF
+player_bukayo_saka,Bukayo Saka,ENG,FW
+player_martin_odegaard_captain,Martin Ødegaard (captain),NOR,MF
+player_gabriel_jesus,Gabriel Jesus,BRA,FW
+player_eberechi_eze,Eberechi Eze,ENG,MF
+player_gabriel_martinelli,Gabriel Martinelli,BRA,FW
+player_jurrien_timber,Jurriën Timber,NED,DF
+player_kepa_arrizabalaga,Kepa Arrizabalaga,ESP,GK
+player_viktor_gyokeres,Viktor Gyökeres,SWE,FW
+player_christian_norgaard,Christian Nørgaard,DEN,MF
+player_leandro_trossard,Leandro Trossard,BEL,FW
+player_noni_madueke,Noni Madueke,ENG,FW
+player_ethan_nwaneri,Ethan Nwaneri,ENG,MF
+player_mikel_merino,Mikel Merino,ESP,MF
+player_kai_havertz,Kai Havertz,GER,FW
+player_riccardo_calafiori,Riccardo Calafiori,ITA,DF
+player_martin_zubimendi,Martín Zubimendi,ESP,MF
+player_declan_rice,Declan Rice,ENG,MF
+player_myles_lewis_skelly,Myles Lewis-Skelly,ENG,DF
+player_alisson_becker,Alisson Becker,BRA,GK
+player_joe_gomez,Joe Gomez,ENG,DF
+player_wataru_endo,Wataru Endo,JPN,MF
+player_virgil_van_dijk_captain,Virgil van Dijk (captain),NED,DF
+player_ibrahima_konate,Ibrahima Konaté,FRA,DF
+player_milos_kerkez,Milos Kerkez,HUN,DF
+player_florian_wirtz,Florian Wirtz,GER,MF
+player_dominik_szoboszlai,Dominik Szoboszlai,HUN,MF
+player_alexander_isak,Alexander Isak,SWE,FW
+player_alexis_mac_allister,Alexis Mac Allister,ARG,MF
+player_mohamed_salah,Mohamed Salah,EGY,FW
+player_conor_bradley,Conor Bradley,NIR,DF
+player_federico_chiesa,Federico Chiesa,ITA,FW
+player_giovanni_leoni,Giovanni Leoni,ITA,DF
+player_curtis_jones,Curtis Jones,ENG,MF
+player_cody_gakpo,Cody Gakpo,NED,FW
+player_hugo_ekitike,Hugo Ekitike,FRA,FW
+player_giorgi_mamardashvili,Giorgi Mamardashvili,GEO,GK
+player_andy_robertson_vice_captain,Andy Robertson (vice-captain),SCO,DF
+player_freddie_woodman,Freddie Woodman,ENG,GK
+player_jeremie_frimpong,Jeremie Frimpong,NED,DF
+player_ryan_gravenberch,Ryan Gravenberch,NED,MF
+player_armin_pecsi,Ármin Pécsi,HUN,GK
+player_trey_nyoni,Trey Nyoni,ENG,MF
+player_stefan_bajcetic,Stefan Bajcetic,ESP,MF
+player_rhys_williams,Rhys Williams,ENG,DF
+player_calvin_ramsay,Calvin Ramsay,SCO,DF
+player_amara_nallo,Amara Nallo,ENG,DF
+player_rio_ngumoha,Rio Ngumoha,ENG,FW
+player_matty_cash,Matty Cash,POL,DF
+player_victor_lindelof,Victor Lindelöf,SWE,DF
+player_ezri_konsa,Ezri Konsa,ENG,DF
+player_tyrone_mings,Tyrone Mings,ENG,DF
+player_ross_barkley,Ross Barkley,ENG,MF
+player_john_mcginn_captain,John McGinn (captain),SCO,MF
+player_youri_tielemans,Youri Tielemans,BEL,MF
+player_harvey_elliott_on_loan_from_liverpool,Harvey Elliott (on loan from Liverpool),ENG,FW
+player_emiliano_buendia,Emiliano Buendía,ARG,MF
+player_ollie_watkins,Ollie Watkins,ENG,FW
+player_lucas_digne,Lucas Digne,FRA,DF
+player_pau_torres,Pau Torres,ESP,DF
+player_andres_garcia,Andrés García,ESP,DF
+player_donyell_malen,Donyell Malen,NED,FW
+player_jadon_sancho_on_loan_from_manchester_united,Jadon Sancho (on loan from Manchester United),ENG,FW
+player_ian_maatsen,Ian Maatsen,NED,DF
+player_emiliano_martinez_vice_captain,Emiliano Martínez (vice-captain),ARG,GK
+player_amadou_onana,Amadou Onana,BEL,MF
+player_lamare_bogarde,Lamare Bogarde,NED,DF
+player_morgan_rogers,Morgan Rogers,ENG,MF
+player_evann_guessand,Evann Guessand,CIV,FW
+player_marco_bizot,Marco Bizot,NED,GK
+player_boubacar_kamara,Boubacar Kamara,FRA,MF
+player_bradley_burrowes,Bradley Burrowes,ENG,MF
+player_jose_sa,José Sá,POR,GK
+player_matt_doherty_vice_captain,Matt Doherty (vice-captain),IRL,DF
+player_hugo_bueno_6th_captain,Hugo Bueno (6th captain),ESP,DF
+player_santiago_bueno,Santiago Bueno,URU,DF
+player_marshall_munetsi,Marshall Munetsi,ZIM,MF
+player_david_moller_wolfe,David Møller Wolfe,NOR,DF
+player_andre,André,BRA,MF
+player_joao_gomes_4th_captain,João Gomes (4th captain),BRA,MF
+player_jorgen_strand_larsen_5th_captain,Jørgen Strand Larsen (5th captain),NOR,FW
+player_jhon_arias,Jhon Arias,COL,FW
+player_hwang_hee_chan_3rd_captain,Hwang Hee-chan (3rd captain),KOR,FW
+player_emmanuel_agbadou,Emmanuel Agbadou,CIV,DF
+player_tolu_arokodare,Tolu Arokodare,NGA,FW
+player_yerson_mosquera,Yerson Mosquera,COL,DF
+player_rodrigo_gomes,Rodrigo Gomes,POR,FW
+player_tawanda_chirewa,Tawanda Chirewa,ZIM,FW
+player_toti_gomes_captain,Toti Gomes (captain),POR,DF
+player_dan_bentley,Dan Bentley,ENG,GK
+player_ki_jana_hoever,Ki-Jana Hoever,NED,DF
+player_jean_ricner_bellegarde,Jean‐Ricner Bellegarde,HAI,MF
+player_fer_lopez,Fer López,ESP,MF
+player_enso_gonzalez,Enso González,PAR,FW
+player_sam_johnstone,Sam Johnstone,ENG,GK
+player_mateus_mane,Mateus Mané,ENG,FW
+player_ladislav_krejci_on_loan_from_girona,Ladislav Krejčí (on loan from Girona),CZE,DF
+player_jackson_tchatchoua,Jackson Tchatchoua,CMR,DF
+player_nathan_fraser,Nathan Fraser,IRL,FW
+player_mads_hermansen,Mads Hermansen,DEN,GK
+player_kyle_walker_peters,Kyle Walker-Peters,ENG,DF
+player_maximilian_kilman,Maximilian Kilman,ENG,DF
+player_igor_julio_on_loan_from_brighton_hove_albion,Igor Julio (on loan from Brighton & Hove Albion),BRA,DF
+player_crysencio_summerville,Crysencio Summerville,NED,FW
+player_james_ward_prowse,James Ward-Prowse,ENG,MF
+player_callum_wilson,Callum Wilson,ENG,FW
+player_lucas_paqueta,Lucas Paquetá,BRA,MF
+player_niclas_fullkrug,Niclas Füllkrug,GER,FW
+player_el_hadji_malick_diouf,El Hadji Malick Diouf,SEN,DF
+player_konstantinos_mavropanos,Konstantinos Mavropanos,GRE,DF
+player_luis_guilherme,Luis Guilherme,BRA,MF
+player_mateus_fernandes,Mateus Fernandes,POR,MF
+player_jarrod_bowen_captain,Jarrod Bowen (captain),ENG,FW
+player_lukasz_fabianski,Łukasz Fabiański,POL,GK
+player_alphonse_areola,Alphonse Areola,FRA,GK
+player_guido_rodriguez,Guido Rodríguez,ARG,MF
+player_jean_clair_todibo,Jean-Clair Todibo,FRA,DF
+player_soungoutou_magassa,Soungoutou Magassa,FRA,MF
+player_tomas_soucek,Tomáš Souček,CZE,MF
+player_aaron_wan_bissaka,Aaron Wan-Bissaka,COD,DF
+player_oliver_scarles,Oliver Scarles,ENG,DF
+player_freddie_potts,Freddie Potts,ENG,MF
+player_andy_irving,Andy Irving,SCO,MF
+player_george_earthy,George Earthy,ENG,MF
+player_callum_marshall,Callum Marshall,NIR,FW
+player_guglielmo_vicario,Guglielmo Vicario,ITA,GK
+player_radu_dragusin,Radu Drăgușin,ROU,DF
+player_kevin_danso,Kevin Danso,AUT,DF
+player_joao_palhinha_on_loan_from_bayern_munich,João Palhinha (on loan from Bayern Munich),POR,MF
+player_xavi_simons,Xavi Simons,NED,MF
+player_yves_bissouma,Yves Bissouma,MLI,MF
+player_richarlison,Richarlison,BRA,FW
+player_james_maddison_vice_captain,James Maddison (vice-captain),ENG,MF
+player_mathys_tel,Mathys Tel,FRA,FW
+player_destiny_udogie,Destiny Udogie,ITA,DF
+player_archie_gray,Archie Gray,ENG,MF
+player_lucas_bergvall,Lucas Bergvall,SWE,MF
+player_cristian_romero_captain,Cristian Romero (captain),ARG,DF
+player_dominic_solanke,Dominic Solanke,ENG,FW
+player_mohammed_kudus,Mohammed Kudus,GHA,FW
+player_dejan_kulusevski,Dejan Kulusevski,SWE,FW
+player_brennan_johnson,Brennan Johnson,WAL,FW
+player_pedro_porro,Pedro Porro,ESP,DF
+player_djed_spence,Djed Spence,ENG,DF
+player_kota_takai,Kōta Takai,JPN,DF
+player_wilson_odobert,Wilson Odobert,FRA,FW
+player_pape_matar_sarr,Pape Matar Sarr,SEN,MF
+player_rodrigo_bentancur,Rodrigo Bentancur,URU,MF
+player_antonin_kinsky,Antonín Kinský,CZE,GK
+player_ben_davies,Ben Davies,WAL,DF
+player_micky_van_de_ven,Micky van de Ven,NED,DF
+player_randal_kolo_muani_on_loan_from_paris_saint_germain,Randal Kolo Muani (on loan from Paris Saint-Germain),FRA,FW
+player_brandon_austin,Brandon Austin,USA,GK
+player_dane_scarlett,Dane Scarlett,ENG,FW
+player_alex_mccarthy,Alex McCarthy,ENG,GK
+player_mads_roerslev,Mads Roerslev,DEN,DF
+player_ryan_manning,Ryan Manning,IRL,DF
+player_flynn_downes,Flynn Downes,ENG,MF
+player_jack_stephens_captain,Jack Stephens (captain),ENG,DF
+player_taylor_harwood_bellis,Taylor Harwood-Bellis,ENG,DF
+player_joe_aribo,Joe Aribo,NGA,MF
+player_adam_armstrong,Adam Armstrong,ENG,FW
+player_finn_azaz,Finn Azaz,IRL,MF
+player_ross_stewart,Ross Stewart,SCO,FW
+player_ronnie_edwards,Ronnie Edwards,ENG,DF
+player_leo_scienza,Léo Scienza,BRA,MF
+player_nathan_wood,Nathan Wood,ENG,DF
+player_joshua_quarshie,Joshua Quarshie,GER,DF
+player_tom_fellows,Tom Fellows,ENG,FW
+player_cameron_archer,Cameron Archer,ENG,FW
+player_caspar_jander,Caspar Jander,GER,MF
+player_samuel_edozie,Samuel Edozie,ENG,MF
+player_shea_charles,Shea Charles,NIR,MF
+player_george_long_on_loan_from_norwich_city,George Long (on loan from Norwich City),ENG,GK
+player_ryan_fraser,Ryan Fraser,SCO,MF
+player_kuryu_matsuki,Kuryu Matsuki,JPN,MF
+player_gavin_bazunu,Gavin Bazunu,IRL,GK
+player_welington,Welington,BRA,DF
+player_elias_jelert_on_loan_from_galatasaray,Elias Jelert (on loan from Galatasaray),DEN,DF
+player_damion_downs,Damion Downs,USA,FW
+player_jay_robinson,Jay Robinson,ENG,FW
+player_moses_sesay,Moses Sesay,ENG,MF
+player_dylan_moody,Dylan Moody,ENG,GK
+player_nick_pope,Nick Pope,ENG,GK
+player_kieran_trippier_vice_captain,Kieran Trippier (vice-captain),ENG,DF
+player_lewis_hall,Lewis Hall,ENG,DF
+player_sven_botman,Sven Botman,NED,DF
+player_fabian_schar,Fabian Schär,SUI,DF
+player_jamaal_lascelles_3rd_captain,Jamaal Lascelles (3rd captain),ENG,DF
+player_joelinton,Joelinton,BRA,MF
+player_sandro_tonali,Sandro Tonali,ITA,MF
+player_yoane_wissa,Yoane Wissa,COD,FW
+player_anthony_gordon,Anthony Gordon,ENG,FW
+player_harvey_barnes,Harvey Barnes,ENG,FW
+player_malick_thiaw,Malick Thiaw,GER,DF
+player_emil_krafth,Emil Krafth,SWE,DF
+player_william_osula,William Osula,DEN,FW
+player_anthony_elanga,Anthony Elanga,SWE,FW
+player_tino_livramento,Tino Livramento,ENG,DF
+player_jacob_murphy,Jacob Murphy,ENG,MF
+player_john_ruddy,John Ruddy,ENG,GK
+player_nick_woltemade,Nick Woltemade,GER,FW
+player_joe_willock,Joe Willock,ENG,MF
+player_mark_gillespie,Mark Gillespie,ENG,GK
+player_harrison_ashby,Harrison Ashby,SCO,DF
+player_aaron_ramsdale_on_loan_from_southampton,Aaron Ramsdale (on loan from Southampton),ENG,GK
+player_dan_burn,Dan Burn,ENG,DF
+player_alex_murphy,Alex Murphy,IRL,DF
+player_bruno_guimaraes_captain,Bruno Guimarães (captain),BRA,MF
+player_jacob_ramsey,Jacob Ramsey,ENG,MF
+player_lewis_miley,Lewis Miley,ENG,MF
+player_altay_bayindir,Altay Bayındır,TUR,GK
+player_diogo_dalot,Diogo Dalot,POR,DF
+player_noussair_mazraoui,Noussair Mazraoui,MAR,DF
+player_matthijs_de_ligt,Matthijs de Ligt,NED,DF
+player_harry_maguire,Harry Maguire,ENG,DF
+player_lisandro_martinez,Lisandro Martínez,ARG,DF
+player_mason_mount,Mason Mount,ENG,MF
+player_bruno_fernandes_captain,Bruno Fernandes (captain),POR,MF
+player_matheus_cunha,Matheus Cunha,BRA,FW
+player_joshua_zirkzee,Joshua Zirkzee,NED,FW
+player_tyrell_malacia,Tyrell Malacia,NED,DF
+player_patrick_dorgu,Patrick Dorgu,DEN,DF
+player_leny_yoro,Leny Yoro,FRA,DF
+player_amad_diallo,Amad Diallo,CIV,FW
+player_casemiro,Casemiro,BRA,MF
+player_bryan_mbeumo,Bryan Mbeumo,CMR,FW
+player_tom_heaton,Tom Heaton,ENG,GK
+player_luke_shaw,Luke Shaw,ENG,DF
+player_manuel_ugarte,Manuel Ugarte,URU,MF
+player_ayden_heaven,Ayden Heaven,ENG,DF
+player_benjamin_sesko,Benjamin Šeško,SVN,FW
+player_senne_lammens,Senne Lammens,BEL,GK
+player_chido_obi,Chido Obi,DEN,FW
+player_tyler_fredricson,Tyler Fredricson,ENG,DF
+player_diego_leon,Diego León,PAR,DF
+player_kobbie_mainoo,Kobbie Mainoo,ENG,MF
+player_james_trafford,James Trafford,ENG,GK
+player_ruben_dias_vice_captain,Rúben Dias (vice-captain),POR,DF
+player_tijjani_reijnders,Tijjani Reijnders,NED,MF
+player_john_stones_vice_captain,John Stones (vice-captain),ENG,DF
+player_nathan_ake,Nathan Aké,NED,DF
+player_omar_marmoush,Omar Marmoush,EGY,FW
+player_mateo_kovacic,Mateo Kovačić,CRO,MF
+player_erling_haaland_vice_captain,Erling Haaland (vice-captain),NOR,FW
+player_rayan_cherki,Rayan Cherki,FRA,MF
+player_jeremy_doku,Jérémy Doku,BEL,MF
+player_marcus_bettinelli,Marcus Bettinelli,ENG,GK
+player_nico_gonzalez,Nico González,ESP,MF
+player_rodri_vice_captain,Rodri (vice-captain),ESP,MF
+player_stefan_ortega,Stefan Ortega,GER,GK
+player_bernardo_silva_captain,Bernardo Silva (captain),POR,MF
+player_rayan_ait_nouri,Rayan Aït-Nouri,ALG,DF
+player_josko_gvardiol,Joško Gvardiol,CRO,DF
+player_gianluigi_donnarumma,Gianluigi Donnarumma,ITA,GK
+player_savinho,Savinho,BRA,MF
+player_matheus_nunes,Matheus Nunes,POR,MF
+player_nico_o_reilly,Nico O'Reilly,ENG,MF
+player_kalvin_phillips,Kalvin Phillips,ENG,MF
+player_abdukodir_khusanov,Abdukodir Khusanov,UZB,DF
+player_phil_foden,Phil Foden,ENG,MF
+player_oscar_bobb,Oscar Bobb,NOR,MF
+player_rico_lewis,Rico Lewis,ENG,DF
+player_neco_williams,Neco Williams,WAL,DF
+player_morato,Morato,BRA,DF
+player_murillo,Murillo,BRA,DF
+player_ibrahim_sangare,Ibrahim Sangaré,CIV,MF
+player_callum_hudson_odoi,Callum Hudson-Odoi,ENG,FW
+player_elliot_anderson,Elliot Anderson,ENG,MF
+player_taiwo_awoniyi,Taiwo Awoniyi,NGA,FW
+player_morgan_gibbs_white_vice_captain,Morgan Gibbs-White (vice-captain),ENG,MF
+player_chris_wood,Chris Wood,NZL,FW
+player_douglas_luiz_on_loan_from_juventus,Douglas Luiz (on loan from Juventus),BRA,MF
+player_john_victor,John Victor,BRA,GK
+player_dan_ndoye,Dan Ndoye,SUI,FW
+player_arnaud_kalimuendo,Arnaud Kalimuendo,FRA,FW
+player_nicolas_dominguez,Nicolás Domínguez,ARG,MF
+player_angus_gunn,Angus Gunn,SCO,GK
+player_igor_jesus,Igor Jesus,BRA,FW
+player_omari_hutchinson,Omari Hutchinson,ENG,FW
+player_ryan_yates_captain,Ryan Yates (captain),ENG,MF
+player_jair_cunha,Jair Cunha,BRA,DF
+player_james_mcatee,James McAtee,ENG,MF
+player_matz_sels,Matz Sels,BEL,GK
+player_dilane_bakwa,Dilane Bakwa,FRA,FW
+player_willy_boly,Willy Boly,CIV,DF
+player_nikola_milenkovic,Nikola Milenković,SRB,DF
+player_ola_aina,Ola Aina,NGA,DF
+player_oleksandr_zinchenko_on_loan_from_arsenal,Oleksandr Zinchenko (on loan from Arsenal),UKR,DF
+player_nicolo_savona,Nicolò Savona,ITA,DF
+player_zach_abbott,Zach Abbott,ENG,DF
+player_jakub_stolarczyk,Jakub Stolarczyk,POL,GK
+player_wout_faes,Wout Faes,BEL,DF
+player_ben_nelson,Ben Nelson,ENG,DF
+player_caleb_okoli,Caleb Okoli,ITA,DF
+player_jordan_james_on_loan_from_rennes,Jordan James (on loan from Rennes),WAL,MF
+player_abdul_fatawu,Abdul Fatawu,GHA,FW
+player_harry_winks,Harry Winks,ENG,MF
+player_jordan_ayew,Jordan Ayew,GHA,FW
+player_stephy_mavididi,Stephy Mavididi,ENG,FW
+player_fran_vieites,Fran Vieites,ESP,GK
+player_bobby_de_cordova_reid,Bobby De Cordova-Reid,JAM,FW
+player_harry_souttar,Harry Souttar,AUS,DF
+player_victor_kristiansen,Victor Kristiansen,DEN,DF
+player_hamza_choudhury,Hamza Choudhury,BAN,MF
+player_julian_carranza_on_loan_from_feyenoord,Julián Carranza (on loan from Feyenoord),ARG,FW
+player_patson_daka,Patson Daka,ZAM,FW
+player_ricardo_pereira_captain,Ricardo Pereira (captain),POR,DF
+player_oliver_skipp,Oliver Skipp,ENG,MF
+player_jannik_vestergaard,Jannik Vestergaard,DEN,DF
+player_boubakary_soumare,Boubakary Soumaré,FRA,MF
+player_louis_page,Louis Page,ENG,MF
+player_wanya_marcal,Wanya Marçal,POR,MF
+player_jeremy_monga,Jeremy Monga,ENG,FW
+player_aaron_ramsey_on_loan_from_burnley,Aaron Ramsey (on loan from Burnley),ENG,MF
+player_asmir_begovic,Asmir Begović,BIH,GK
+player_luke_thomas,Luke Thomas,ENG,DF
+player_michael_golding,Michael Golding,ENG,MF
+player_silko_thomas,Silko Thomas,ENG,MF
+player_olabade_aluko,Olabade Aluko,ENG,DF
+player_jake_evans,Jake Evans,ENG,FW
+player_dorde_petrovic,Đorđe Petrović,SRB,GK
+player_julian_araujo,Julián Araujo,MEX,DF
+player_adrien_truffert,Adrien Truffert,FRA,DF
+player_lewis_cook_vice_captain,Lewis Cook (vice-captain),ENG,MF
+player_marcos_senesi,Marcos Senesi,ARG,DF
+player_julio_soler,Julio Soler,ARG,DF
+player_david_brooks,David Brooks,WAL,MF
+player_alex_scott,Alex Scott,ENG,MF
+player_evanilson,Evanilson,BRA,FW
+player_ryan_christie,Ryan Christie,SCO,MF
+player_ben_gannon_doak,Ben Gannon-Doak,SCO,FW
+player_tyler_adams,Tyler Adams,USA,MF
+player_adam_smith_captain,Adam Smith (captain),ENG,DF
+player_marcus_tavernier,Marcus Tavernier,ENG,MF
+player_bafode_diakite,Bafodé Diakité,FRA,DF
+player_justin_kluivert,Justin Kluivert,NED,FW
+player_alex_jimenez_on_loan_from_ac_milan,Álex Jiménez (on loan from AC Milan),ESP,DF
+player_amine_adli,Amine Adli,MAR,MF
+player_eli_junior_kroupi,Eli Junior Kroupi,FRA,FW
+player_james_hill,James Hill,ENG,DF
+player_antoine_semenyo,Antoine Semenyo,GHA,FW
+player_enes_unal,Enes Ünal,TUR,FW
+player_owen_bevan,Owen Bevan,WAL,DF
+player_will_dennis,Will Dennis,ENG,GK
+player_veljko_milosavljevic,Veljko Milosavljević,SRB,DF
+player_matai_akinmboni,Matai Akinmboni,USA,DF
+player_remy_rees_dottin,Remy Rees-Dottin,ENG,FW
+player_bernd_leno_vice_captain,Bernd Leno (vice-captain),GER,GK
+player_kenny_tete,Kenny Tete,NED,DF
+player_calvin_bassey,Calvin Bassey,NGA,DF
+player_joachim_andersen,Joachim Andersen,DEN,DF
+player_harrison_reed,Harrison Reed,ENG,MF
+player_raul_jimenez,Raúl Jiménez,MEX,FW
+player_harry_wilson,Harry Wilson,WAL,MF
+player_rodrigo_muniz,Rodrigo Muniz,BRA,FW
+player_tom_cairney_captain,Tom Cairney (captain),SCO,MF
+player_adama_traore,Adama Traoré,ESP,FW
+player_jorge_cuenca,Jorge Cuenca,ESP,DF
+player_sander_berge,Sander Berge,NOR,MF
+player_alex_iwobi,Alex Iwobi,NGA,MF
+player_jonah_kusi_asare_on_loan_from_bayern_munich,Jonah Kusi-Asare (on loan from Bayern Munich),SWE,FW
+player_samuel_chukwueze_on_loan_from_ac_milan,Samuel Chukwueze (on loan from AC Milan),NGA,FW
+player_sasa_lukic,Saša Lukić,SRB,MF
+player_timothy_castagne,Timothy Castagne,BEL,DF
+player_kevin,Kevin,BRA,FW
+player_benjamin_lecomte,Benjamin Lecomte,FRA,GK
+player_josh_king,Josh King,ENG,MF
+player_ryan_sessegnon,Ryan Sessegnon,ENG,MF
+player_issa_diop,Issa Diop,FRA,DF
+player_emile_smith_rowe,Emile Smith Rowe,ENG,MF
+player_antonee_robinson_vice_captain,Antonee Robinson (vice-captain),USA,DF
+player_jordan_pickford_3rd_captain,Jordan Pickford (3rd captain),ENG,GK
+player_nathan_patterson,Nathan Patterson,SCO,DF
+player_michael_keane,Michael Keane,ENG,DF
+player_james_tarkowski_vice_captain,James Tarkowski (vice-captain),ENG,DF
+player_dwight_mcneil,Dwight McNeil,ENG,FW
+player_beto,Beto,GNB,FW
+player_iliman_ndiaye,Iliman Ndiaye,SEN,FW
+player_thierno_barry,Thierno Barry,FRA,FW
+player_mark_travers,Mark Travers,IRL,GK
+player_jake_o_brien,Jake O'Brien,IRL,DF
+player_vitaliy_mykolenko,Vitaliy Mykolenko,UKR,DF
+player_jack_grealish_on_loan_from_manchester_city,Jack Grealish (on loan from Manchester City),ENG,MF
+player_tyler_dibling,Tyler Dibling,ENG,FW
+player_kiernan_dewsbury_hall,Kiernan Dewsbury-Hall,ENG,MF
+player_seamus_coleman_captain,Séamus Coleman (captain),IRL,DF
+player_carlos_alcaraz,Carlos Alcaraz,ARG,MF
+player_idrissa_gueye,Idrissa Gueye,SEN,MF
+player_tom_king,Tom King,WAL,GK
+player_jarrad_branthwaite,Jarrad Branthwaite,ENG,DF
+player_merlin_rohl_on_loan_from_sc_freiburg,Merlin Röhl (on loan from SC Freiburg),GER,MF
+player_james_garner,James Garner,ENG,MF
+player_harry_tyrer,Harry Tyrer,ENG,GK
+player_adam_aznou,Adam Aznou,MAR,DF
+player_tim_iroegbunam,Tim Iroegbunam,ENG,MF
+player_dean_henderson,Dean Henderson,ENG,GK
+player_daniel_munoz,Daniel Muñoz,COL,DF
+player_tyrick_mitchell,Tyrick Mitchell,ENG,DF
+player_maxence_lacroix,Maxence Lacroix,FRA,DF
+player_marc_guehi_captain,Marc Guéhi (captain),ENG,DF
+player_ismaila_sarr,Ismaïla Sarr,SEN,MF
+player_jefferson_lerma,Jefferson Lerma,COL,MF
+player_eddie_nketiah,Eddie Nketiah,ENG,FW
+player_yeremy_pino,Yéremy Pino,ESP,MF
+player_christantus_uche_on_loan_from_getafe,Christantus Uche (on loan from Getafe),NGA,MF
+player_jean_philippe_mateta,Jean-Philippe Mateta,FRA,FW
+player_nathaniel_clyne,Nathaniel Clyne,ENG,DF
+player_daichi_kamada,Daichi Kamada,JPN,MF
+player_will_hughes,Will Hughes,ENG,MF
+player_adam_wharton,Adam Wharton,ENG,MF
+player_romain_esse,Romain Esse,ENG,MF
+player_jaydee_canvot,Jaydee Canvot,FRA,DF
+player_borna_sosa,Borna Sosa,CRO,DF
+player_chris_richards,Chris Richards,USA,DF
+player_cheick_doucoure,Cheick Doucouré,MLI,MF
+player_naouirou_ahamada,Naouirou Ahamada,FRA,MF
+player_remi_matthews,Remi Matthews,ENG,GK
+player_chadi_riad,Chadi Riad,MAR,DF
+player_caleb_kporha,Caleb Kporha,ENG,DF
+player_kaden_rodney,Kaden Rodney,ENG,MF
+player_walter_benitez,Walter Benítez,ARG,GK
+player_justin_devenny,Justin Devenny,NIR,MF
+player_rio_cardines,Rio Cardines,TRI,DF
+player_robert_sanchez,Robert Sánchez,ESP,GK
+player_marc_cucurella,Marc Cucurella,ESP,DF
+player_tosin_adarabioyo,Tosin Adarabioyo,ENG,DF
+player_benoit_badiashile,Benoît Badiashile,FRA,DF
+player_levi_colwill,Levi Colwill,ENG,DF
+player_pedro_neto,Pedro Neto,POR,FW
+player_enzo_fernandez_vice_captain,Enzo Fernández (vice-captain),ARG,MF
+player_liam_delap,Liam Delap,ENG,FW
+player_cole_palmer,Cole Palmer,ENG,MF
+player_jamie_gittens,Jamie Gittens,ENG,FW
+player_filip_jorgensen,Filip Jörgensen,DEN,GK
+player_dario_essugo,Dário Essugo,POR,MF
+player_andrey_santos,Andrey Santos,BRA,MF
+player_joao_pedro,João Pedro,BRA,FW
+player_jorrel_hato,Jorrel Hato,NED,DF
+player_trevoh_chalobah,Trevoh Chalobah,ENG,DF
+player_reece_james_captain,Reece James (captain),ENG,DF
+player_moises_caicedo_3rd_captain,Moisés Caicedo (3rd captain),ECU,MF
+player_malo_gusto,Malo Gusto,FRA,DF
+player_wesley_fofana,Wesley Fofana,FRA,DF
+player_tyrique_george,Tyrique George,ENG,FW
+player_josh_acheampong,Josh Acheampong,ENG,DF
+player_ted_curd,Ted Curd,ENG,GK
+player_marc_guiu,Marc Guiu,ESP,FW
+player_facundo_buonanotte_on_loan_from_brighton_hove_albion,Facundo Buonanotte (on loan from Brighton & Hove Albion),ARG,MF
+player_estevao,Estêvão,BRA,FW
+player_gabriel_slonina,Gabriel Slonina,USA,GK
+player_romeo_lavia,Roméo Lavia,BEL,MF
+player_alejandro_garnacho,Alejandro Garnacho,ARG,FW
+player_mykhailo_mudryk,Mykhailo Mudryk,UKR,FW
+player_bart_verbruggen,Bart Verbruggen,NED,GK
+player_adam_webster,Adam Webster,ENG,DF
+player_lewis_dunk_captain,Lewis Dunk (captain),ENG,DF
+player_jan_paul_van_hecke,Jan Paul van Hecke,NED,DF
+player_solly_march,Solly March,ENG,MF
+player_brajan_gruda,Brajan Gruda,GER,MF
+player_stefanos_tzimas,Stefanos Tzimas,GRE,FW
+player_georginio_rutter,Georginio Rutter,FRA,FW
+player_yankuba_minteh,Yankuba Minteh,GAM,MF
+player_jack_hinshelwood,Jack Hinshelwood,ENG,MF
+player_tom_watson,Tom Watson,ENG,MF
+player_carlos_baleba,Carlos Baleba,CMR,MF
+player_danny_welbeck,Danny Welbeck,ENG,FW
+player_charalampos_kostoulas,Charalampos Kostoulas,GRE,FW
+player_james_milner,James Milner,ENG,MF
+player_olivier_boscagli,Olivier Boscagli,FRA,DF
+player_kaoru_mitoma,Kaoru Mitoma,JPN,MF
+player_jason_steele,Jason Steele,ENG,GK
+player_ferdi_kadioglu,Ferdi Kadıoğlu,TUR,DF
+player_diego_gomez,Diego Gómez,PAR,MF
+player_yasin_ayari,Yasin Ayari,SWE,MF
+player_mats_wieffer,Mats Wieffer,NED,MF
+player_maxim_de_cuyper,Maxim De Cuyper,BEL,DF
+player_joel_veltman,Joël Veltman,NED,DF
+player_tom_mcgill,Tom McGill,CAN,GK
+player_diego_coppola,Diego Coppola,ITA,DF
+player_caoimhin_kelleher,Caoimhín Kelleher,IRL,GK
+player_aaron_hickey,Aaron Hickey,SCO,DF
+player_rico_henry,Rico Henry,ENG,DF
+player_sepp_van_den_berg,Sepp van den Berg,NED,DF
+player_ethan_pinnock,Ethan Pinnock,JAM,DF
+player_jordan_henderson,Jordan Henderson,ENG,MF
+player_kevin_schade,Kevin Schade,GER,FW
+player_mathias_jensen,Mathias Jensen,DEN,MF
+player_igor_thiago,Igor Thiago,BRA,FW
+player_reiss_nelson_on_loan_from_arsenal,Reiss Nelson (on loan from Arsenal),ENG,FW
+player_hakon_valdimarsson,Hákon Valdimarsson,ISL,GK
+player_matthew_cox,Matthew Cox,ENG,GK
+player_fabio_carvalho,Fábio Carvalho,POR,MF
+player_frank_onyeka,Frank Onyeka,NGA,MF
+player_antoni_milambo,Antoni Milambo,NED,MF
+player_yehor_yarmolyuk,Yehor Yarmolyuk,UKR,MF
+player_dango_ouattara,Dango Ouattara,BFA,FW
+player_kristoffer_ajer,Kristoffer Ajer,NOR,DF
+player_nathan_collins_captain,Nathan Collins (captain),IRL,DF
+player_keane_lewis_potter,Keane Lewis-Potter,ENG,MF
+player_mikkel_damsgaard,Mikkel Damsgaard,DEN,MF
+player_myles_peart_harris,Myles Peart-Harris,ENG,MF
+player_yunus_emre_konak,Yunus Emre Konak,TUR,MF
+player_vitaly_janelt,Vitaly Janelt,GER,MF
+player_ellery_balcombe,Ellery Balcombe,ENG,GK
+player_paris_maghoma,Paris Maghoma,ENG,MF
+player_michael_kayode,Michael Kayode,ITA,DF
+player_gustavo_nunes,Gustavo Nunes,BRA,FW
+player_julian_eyestone,Julian Eyestone,USA,GK
+player_benjamin_arthur,Benjamin Arthur,ENG,DF
+player_romelle_donovan,Romelle Donovan,ENG,FW
+player_alex_palmer,Alex Palmer,ENG,GK
+player_harry_clarke,Harry Clarke,ENG,DF
+player_leif_davis,Leif Davis,ENG,DF
+player_cedric_kipre_on_loan_from_reims,Cédric Kipré (on loan from Reims),CIV,DF
+player_azor_matusiwa,Azor Matusiwa,NED,MF
+player_wes_burns,Wes Burns,WAL,MF
+player_sindre_walle_egeli,Sindre Walle Egeli,NOR,FW
+player_george_hirst,George Hirst,SCO,FW
+player_jaden_philogene,Jaden Philogene,ENG,FW
+player_jens_cajuste_on_loan_from_napoli,Jens Cajuste (on loan from Napoli),SWE,MF
+player_jack_taylor,Jack Taylor,IRL,MF
+player_ashley_young,Ashley Young,ENG,DF
+player_ben_johnson,Ben Johnson,ENG,DF
+player_darnell_furlong,Darnell Furlong,ENG,DF
+player_kasey_mcateer,Kasey McAteer,IRL,FW
+player_conor_townsend,Conor Townsend,ENG,DF
+player_sammie_szmodics,Sammie Szmodics,IRL,FW
+player_jacob_greaves,Jacob Greaves,ENG,DF
+player_elkan_baggott,Elkan Baggott,IDN,DF
+player_dara_o_shea_captain,Dara O'Shea (captain),IRL,DF
+player_david_button,David Button,ENG,GK
+player_christian_walton,Christian Walton,ENG,GK
+player_chuba_akpom_on_loan_from_ajax,Chuba Akpom (on loan from Ajax),ENG,FW
+player_cameron_humphreys,Cameron Humphreys,ENG,MF
+player_ivan_azon_on_loan_from_como,Iván Azón (on loan from Como),ESP,FW
+player_marcelino_nunez,Marcelino Núñez,CHI,MF
+player_jack_clarke,Jack Clarke,ENG,FW
+player_michael_cooper,Michael Cooper,ENG,GK
+player_japhet_tanganga_captain,Japhet Tanganga (captain),ENG,DF
+player_sam_mccallum,Sam McCallum,ENG,DF
+player_ollie_arblaster,Ollie Arblaster,ENG,MF
+player_ben_godfrey_on_loan_from_atalanta,Ben Godfrey (on loan from Atalanta),ENG,DF
+player_tyler_bindon_on_loan_from_nottingham_forest,Tyler Bindon (on loan from Nottingham Forest),NZL,DF
+player_tom_cannon,Tom Cannon,IRL,FW
+player_gustavo_hamer,Gustavo Hamer,NED,MF
+player_danny_ings,Danny Ings,ENG,FW
+player_callum_o_hare,Callum O'Hare,ENG,MF
+player_andre_brooks,Andre Brooks,ENG,MF
+player_harrison_burrows,Harrison Burrows,ENG,DF
+player_ben_mee,Ben Mee,ENG,DF
+player_jamie_shackleton,Jamie Shackleton,ENG,DF
+player_adam_davies,Adam Davies,WAL,GK
+player_djibril_soumare_on_loan_from_braga,Djibril Soumaré (on loan from Braga),SEN,MF
+player_chiedozie_ogbene_on_loan_from_ipswich_town,Chiedozie Ogbene (on loan from Ipswich Town),IRL,FW
+player_ehije_ukaki,Ehije Ukaki,NGA,MF
+player_nils_zatterstrom,Nils Zätterström,SWE,DF
+player_tom_davies,Tom Davies,ENG,MF
+player_tyrese_campbell,Tyrese Campbell,ENG,FW
+player_tahith_chong,Tahith Chong,CUW,MF
+player_mark_mcguinness,Mark McGuinness,IRL,DF
+player_ryan_one,Ryan Oné,SCO,FW
+player_louie_barry_on_loan_from_aston_villa,Louie Barry (on loan from Aston Villa),ENG,FW
+player_alex_matos,Alex Matos,ENG,MF
+player_sam_curtis,Sam Curtis,IRL,DF
+player_luke_faxon,Luke Faxon,ENG,GK
+player_mihail_polendakov,Mihail Polendakov,BUL,DF
+player_louie_marsh,Louie Marsh,ENG,FW
+player_dovydas_sasnauskas,Dovydas Sasnauskas,LTU,DF
+player_femi_seriki,Femi Seriki,ENG,DF
+player_christian_nwachukwu,Christian Nwachukwu,NGA,MF
+player_sydie_peck,Sydie Peck,ENG,MF
+player_jairo_riedewald,Jaïro Riedewald,NED,MF
+player_sai_sachdev,Sai Sachdev,ENG,DF
+player_james_shea,James Shea,ENG,GK
+player_reuell_walters,Reuell Walters,ENG,DF
+player_kal_naismith_captain,Kal Naismith (captain),SCO,DF
+player_mads_andersen,Mads Andersen,DEN,DF
+player_millenic_alli,Millenic Alli,IRL,FW
+player_liam_walsh,Liam Walsh,ENG,MF
+player_jerry_yates,Jerry Yates,ENG,FW
+player_elijah_adebayo,Elijah Adebayo,ENG,FW
+player_ali_al_hamadi_on_loan_from_ipswich_town,Ali Al-Hamadi (on loan from Ipswich Town),IRQ,FW
+player_marvelous_nakamba,Marvelous Nakamba,ZIM,MF
+player_shayden_morris,Shayden Morris,ENG,FW
+player_teden_mengi,Teden Mengi,ENG,DF
+player_hakeem_odoffin,Hakeem Odoffin,ENG,MF
+player_nigel_lonwijk_on_loan_from_wolverhampton_wanderers,Nigel Lonwijk (on loan from Wolverhampton Wanderers),NED,DF
+player_jordan_clark,Jordan Clark,ENG,MF
+player_jacob_brown,Jacob Brown,SCO,FW
+player_lasse_nordas,Lasse Nordås,NOR,FW
+player_nahki_wells,Nahki Wells,BER,FW
+player_lamine_fanne,Lamine Fanne,ESP,MF
+player_george_saville,George Saville,NIR,MF
+player_josh_keeley,Josh Keeley,IRL,GK
+player_isaiah_jones,Isaiah Jones,GUY,FW
+player_shandon_baptiste,Shandon Baptiste,GRN,MF
+player_jake_richards,Jake Richards,ENG,MF
+player_christ_makosso,Christ Makosso,CGO,DF
+player_gideon_kodua_on_loan_from_west_ham,Gideon Kodua (on loan from West Ham),ENG,FW
+player_joe_gbode,Joe Gbodé,ENG,FW
+player_cohen_bramall,Cohen Bramall,ENG,DF
+player_zack_nelson,Zack Nelson,ENG,MF
+player_joseph_johnson,Joseph Johnson,ENG,DF
+player_lucas_thomas,Lucas Thomas,ENG,GK
+player_martin_dubravka,Martin Dúbravka,SVK,GK
+player_kyle_walker,Kyle Walker,ENG,DF
+player_quilindschy_hartman,Quilindschy Hartman,NED,DF
+player_joe_worrall,Joe Worrall,ENG,DF
+player_maxime_esteve,Maxime Estève,FRA,DF
+player_axel_tuanzebe,Axel Tuanzebe,COD,DF
+player_jacob_bruun_larsen,Jacob Bruun Larsen,DEN,FW
+player_lesley_ugochukwu,Lesley Ugochukwu,FRA,MF
+player_lyle_foster,Lyle Foster,RSA,FW
+player_marcus_edwards,Marcus Edwards,ENG,FW
+player_jaidon_anthony,Jaidon Anthony,ENG,FW
+player_bashir_humphreys,Bashir Humphreys,ENG,DF
+player_max_weiss,Max Weiß,GER,GK
+player_connor_roberts,Connor Roberts,WAL,DF
+player_florentino_luis_on_loan_from_benfica,Florentino Luís (on loan from Benfica),POR,MF
+player_loum_tchaouna,Loum Tchaouna,FRA,FW
+player_hjalmar_ekdal,Hjalmar Ekdal,SWE,DF
+player_zian_flemming,Zian Flemming,NED,FW
+player_oliver_sonne,Oliver Sonne,PER,DF
+player_lucas_pires,Lucas Pires,BRA,DF
+player_josh_cullen_captain,Josh Cullen (captain),IRL,MF
+player_zeki_amdouni,Zeki Amdouni,SUI,FW
+player_armando_broja,Armando Broja,ALB,FW
+player_hannibal_mejbri,Hannibal Mejbri,TUN,MF
+player_josh_laurent,Josh Laurent,ENG,MF
+player_mike_tresor,Mike Trésor,BEL,MF
+player_vaclav_hladky,Václav Hladký,CZE,GK
+player_jaydon_banel,Jaydon Banel,NED,FW
+player_ashley_barnes,Ashley Barnes,ENG,FW
+player_jordan_beyer,Jordan Beyer,GER,DF
+player_hannes_delcroix,Hannes Delcroix,HAI,DF
+player_enock_agyei,Enock Agyei,BEL,FW
+player_lucas_perri,Lucas Perri,BRA,GK
+player_jayden_bogle,Jayden Bogle,ENG,DF
+player_gabriel_gudmundsson,Gabriel Gudmundsson,SWE,DF
+player_ethan_ampadu_captain,Ethan Ampadu (captain),WAL,MF
+player_pascal_struijk,Pascal Struijk,NED,DF
+player_joe_rodon,Joe Rodon,WAL,DF
+player_daniel_james,Daniel James,WAL,MF
+player_sean_longstaff,Sean Longstaff,ENG,MF
+player_dominic_calvert_lewin,Dominic Calvert-Lewin,ENG,FW
+player_joel_piroe,Joël Piroe,NED,FW
+player_brenden_aaronson,Brenden Aaronson,USA,MF
+player_lukas_nmecha,Lukas Nmecha,GER,FW
+player_jaka_bijol,Jaka Bijol,SVN,DF
+player_illan_meslier,Illan Meslier,FRA,GK
+player_anton_stach,Anton Stach,GER,MF
+player_noah_okafor,Noah Okafor,SUI,FW
+player_jack_harrison,Jack Harrison,ENG,MF
+player_alex_cairns,Alex Cairns,ENG,GK
+player_ao_tanaka,Ao Tanaka,JPN,MF
+player_sebastiaan_bornauw,Sebastiaan Bornauw,BEL,DF
+player_james_justin,James Justin,ENG,DF
+player_sam_byram,Sam Byram,ENG,DF
+player_karl_darlow,Karl Darlow,WAL,GK
+player_wilfried_gnonto,Wilfried Gnonto,ITA,FW
+player_ilia_gruev,Ilia Gruev,BUL,MF
+player_egil_selvik,Egil Selvik,NOR,GK
+player_jeremy_ngakia,Jeremy Ngakia,COD,DF
+player_max_alleyne_on_loan_from_manchester_city,Max Alleyne (on loan from Manchester City),ENG,DF
+player_kevin_keben,Kévin Keben,CMR,DF
+player_hector_kyprianou,Hector Kyprianou,CYP,MF
+player_mattie_pollock,Mattie Pollock,ENG,DF
+player_tom_ince,Tom Ince,ENG,FW
+player_giorgi_chakvetadze,Giorgi Chakvetadze,GEO,MF
+player_luca_kjerrumgaard_on_loan_from_udinese,Luca Kjerrumgaard (on loan from Udinese),DEN,FW
+player_imran_louza_captain,Imran Louza (captain),MAR,MF
+player_rocco_vata,Rocco Vata,IRL,FW
+player_nathan_baxter,Nathan Baxter,ENG,GK
+player_pierre_dwomoh,Pierre Dwomoh,BEL,MF
+player_marc_bola,Marc Bola,ENG,DF
+player_moussa_sissoko,Moussa Sissoko,FRA,MF
+player_vivaldo_semedo,Vivaldo Semedo,POR,FW
+player_mamadou_doumbia,Mamadou Doumbia,MLI,FW
+player_james_morris,James Morris,ENG,DF
+player_nampalys_mendy,Nampalys Mendy,SEN,MF
+player_james_abankwah_on_loan_from_udinese,James Abankwah (on loan from Udinese),IRL,DF
+player_caleb_wiley_on_loan_from_chelsea,Caleb Wiley (on loan from Chelsea),USA,DF
+player_formose_mendy_on_loan_from_lorient,Formose Mendy (on loan from Lorient),SEN,DF
+player_jeremy_petris,Jeremy Petris,MTQ,DF
+player_kwadwo_baah,Kwadwo Baah,GER,FW
+player_edo_kayembe,Edo Kayembe,COD,MF
+player_alfie_marriott,Alfie Marriott,ENG,GK
+player_othmane_maamma,Othmane Maamma,MAR,FW
+player_jack_grieves,Jack Grieves,ENG,MF
+player_nestory_irankunda,Nestory Irankunda,AUS,FW
+player_vladan_kovacevic,Vladan Kovačević,BIH,GK
+player_jack_stacey,Jack Stacey,ENG,DF
+player_shane_duffy,Shane Duffy,IRL,DF
+player_jakov_medic,Jakov Medić,CRO,DF
+player_harry_darling_3rd_captain,Harry Darling (3rd captain),ENG,DF
+player_pelle_mattsson,Pelle Mattsson,DEN,MF
+player_liam_gibbs,Liam Gibbs,ENG,MF
+player_josh_sargent_vice_captain,Josh Sargent (vice-captain),USA,FW
+player_matej_jurasek,Matěj Jurásek,CZE,FW
+player_emiliano_marcondes,Emiliano Marcondes,DEN,MF
+player_ben_chrisene,Ben Chrisene,ENG,DF
+player_ruairi_mcconville,Ruairi McConville,NIR,DF
+player_jacob_wright,Jacob Wright,ENG,MF
+player_ante_crnac,Ante Crnac,CRO,FW
+player_forson_amankwah,Forson Amankwah,GHA,MF
+player_papa_amadou_diallo,Papa Amadou Diallo,SEN,FW
+player_anis_ben_slimane,Anis Ben Slimane,TUN,MF
+player_mirko_topic,Mirko Topić,SRB,MF
+player_kenny_mclean_captain,Kenny McLean (captain),SCO,MF
+player_jovon_makama,Jovon Makama,ENG,FW
+player_jeffrey_schlupp,Jeffrey Schlupp,GHA,DF
+player_oscar_schwartau,Oscar Schwartau,DEN,MF
+player_mathias_kvistgaarden,Mathias Kvistgaarden,DEN,FW
+player_louie_moulden,Louie Moulden,ENG,GK
+player_daniel_grimshaw,Daniel Grimshaw,ENG,GK
+player_jose_cordoba,José Córdoba,PAN,DF
+player_kellen_fisher,Kellen Fisher,ENG,DF
+player_gabriel_forsyth,Gabriel Forsyth,SCO,MF
+player_tony_springett,Tony Springett,IRL,MF
+player_elliot_myles,Elliot Myles,WAL,MF
+player_lucien_mahovo,Lucien Mahovo,ENG,DF
+player_chris_mepham,Chris Mepham,WAL,DF
+player_nat_phillips,Nat Phillips,ENG,DF
+player_callum_styles,Callum Styles,HUN,MF
+player_krystian_bielik,Krystian Bielik,POL,DF
+player_george_campbell,George Campbell,USA,DF
+player_jed_wallace_captain,Jed Wallace (captain),ENG,FW
+player_jayson_molumby,Jayson Molumby,IRL,MF
+player_josh_maja,Josh Maja,NGA,FW
+player_karlan_grant,Karlan Grant,ENG,FW
+player_mikey_johnston,Mikey Johnston,IRL,MF
+player_daryl_dike,Daryl Dike,USA,FW
+player_toby_collyer_on_loan_from_manchester_united,Toby Collyer (on loan from Manchester United),ENG,MF
+player_alfie_gilchrist,Alfie Gilchrist,ENG,DF
+player_ousmane_diakite,Ousmane Diakité,MLI,MF
+player_aune_heggebo,Aune Heggebø,NOR,FW
+player_josh_griffiths,Josh Griffiths,ENG,GK
+player_isaac_price,Isaac Price,NIR,MF
+player_samuel_iling_junior_on_loan_from_aston_villa,Samuel Iling-Junior (on loan from Aston Villa),ENG,MF
+player_joe_wildsmith,Joe Wildsmith,ENG,GK
+player_tammer_bany,Tammer Bany,DEN,FW
+player_alex_mowatt,Alex Mowatt,ENG,MF
+player_charlie_taylor_on_loan_from_southampton,Charlie Taylor (on loan from Southampton),ENG,DF

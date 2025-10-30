@@ -1,0 +1,548 @@
+﻿coach_id,name
+coach_thomas_mitchell,Thomas Mitchell
+coach_unknown,Unknown †
+coach_william_elcoat,William Elcoat
+coach_arthur_kennedy,Arthur Kennedy †
+coach_harry_bradshaw,Harry Bradshaw
+coach_phil_kelso,Phil Kelso
+coach_george_morrell,George Morrell
+coach_james_mcewen,James McEwen †
+coach_leslie_knighton,Leslie Knighton
+coach_herbert_chapman,Herbert Chapman
+coach_joe_shaw,Joe Shaw †
+coach_george_allison,George Allison
+coach_tom_whittaker,Tom Whittaker
+coach_jack_crayston,Jack Crayston ‡
+coach_george_swindin,George Swindin
+coach_billy_wright,Billy Wright
+coach_bertie_mee,Bertie Mee ‡
+coach_terry_neill,Terry Neill
+coach_don_howe,Don Howe ‡
+coach_steve_burtenshaw,Steve Burtenshaw †
+coach_george_graham,George Graham
+coach_stewart_houston,Stewart Houston †
+coach_bruce_rioch,Bruce Rioch
+coach_pat_rice,Pat Rice †
+coach_arsene_wenger,Arsène Wenger
+coach_unai_emery,Unai Emery
+coach_freddie_ljungberg,Freddie Ljungberg
+coach_mikel_arteta,Mikel Arteta
+coach_william_edward_barclay_john_mckenna,William Edward Barclay John McKenna
+coach_tom_watson,Tom Watson
+coach_george_patterson,George Patterson
+coach_david_ashworth,David Ashworth
+coach_matt_mcqueen,Matt McQueen
+coach_george_kay,George Kay
+coach_don_welsh,Don Welsh
+coach_phil_taylor,Phil Taylor
+coach_bill_shankly,Bill Shankly
+coach_bob_paisley,Bob Paisley
+coach_joe_fagan,Joe Fagan
+coach_kenny_dalglish,Kenny Dalglish
+coach_ronnie_moran,Ronnie Moran*
+coach_graeme_souness,Graeme Souness
+coach_roy_evans,Roy Evans
+coach_roy_evans_gerard_houllier,Roy Evans Gérard Houllier
+coach_gerard_houllier,Gérard Houllier
+coach_rafael_benitez,Rafael Benítez
+coach_roy_hodgson,Roy Hodgson
+coach_brendan_rodgers,Brendan Rodgers
+coach_jurgen_klopp,Jürgen Klopp
+coach_arne_slot,Arne Slot
+coach_george_ramsay,George Ramsay
+coach_jimmy_hogan,Jimmy Hogan
+coach_eric_houghton,Eric Houghton
+coach_joe_mercer,Joe Mercer
+coach_ron_saunders,Ron Saunders
+coach_tony_barton,Tony Barton
+coach_jozef_venglos,Jozef Vengloš
+coach_ron_atkinson,Ron Atkinson
+coach_brian_little,Brian Little
+coach_john_gregory,John Gregory
+coach_dean_smith,Dean Smith
+coach_1967-1976_division_1_1976-1977_division_2_1977-1982_division_1_1982-1983_division_2_1983-1984_division_1_1984-1985_division_2,1967–1976 Division 1 1976–1977 Division 2 1977–1982 Division 1 1982–1983 Division 2 1983–1984 Division 1 1984–1985 Division 2
+coach_syd_king,Syd King
+coach_charlie_paynter,Charlie Paynter
+coach_ted_fenton,Ted Fenton
+coach_ron_greenwood,Ron Greenwood
+coach_john_lyall,John Lyall
+coach_lou_macari,Lou Macari
+coach_nan,nan
+coach_billy_bonds,Billy Bonds
+coach_harry_redknapp,Harry Redknapp
+coach_glenn_roeder,Glenn Roeder
+coach_alan_pardew,Alan Pardew
+coach_alan_curbishley,Alan Curbishley
+coach_gianfranco_zola,Gianfranco Zola
+coach_avram_grant,Avram Grant
+coach_sam_allardyce,Sam Allardyce
+coach_slaven_bilic,Slaven Bilić
+coach_david_moyes,David Moyes
+coach_manuel_pellegrini,Manuel Pellegrini
+coach_julen_lopetegui,Julen Lopetegui
+coach_graham_potter,Graham Potter
+coach_nuno_espirito_santo,Nuno Espírito Santo
+coach_frank_brettell,Frank Brettell
+coach_arthur_turner,Arthur Turner
+coach_andre_villas-boas,André Villas-Boas
+coach_mauricio_pochettino,Mauricio Pochettino
+coach_antonio_conte,Antonio Conte
+coach_john_cameron,John Cameron
+coach_jose_mourinho,José Mourinho
+coach_david_pleat,David Pleat
+coach_tim_sherwood,Tim Sherwood
+coach_bill_nicholson,Bill Nicholson
+coach_arthur_rowe,Arthur Rowe
+coach_cecil_knight,Cecil Knight
+coach_charles_robson,Charles Robson
+coach_alfred_mcminn,Alfred McMinn
+coach_er_arnfield,Er Arnfield
+coach_george_swift,George Swift
+coach_jimmy_mcintyre,Jimmy McIntyre
+coach_arthur_chadwick,Arthur Chadwick
+coach_george_goss,George Goss
+coach_tom_parker,Tom Parker
+coach_arthur_dominy,Arthur Dominy
+coach_bill_dodgin,Bill Dodgin
+coach_sid_cann,Sid Cann
+coach_george_roughton,George Roughton
+coach_ted_bates,Ted Bates
+coach_lawrie_mcmenemy,Lawrie McMenemy
+coach_chris_nicholl,Chris Nicholl
+coach_ian_branfoot,Ian Branfoot
+coach_alan_ball,Alan Ball
+coach_david_merrington,David Merrington
+coach_dave_jones,Dave Jones
+coach_glenn_hoddle,Glenn Hoddle
+coach_stuart_gray,Stuart Gray
+coach_gordon_strachan,Gordon Strachan
+coach_steve_wigley,Steve Wigley
+coach_paul_sturrock,Paul Sturrock
+coach_dave_bassett_dennis_wise,Dave Bassett & Dennis Wise
+coach_george_burley,George Burley
+coach_john_gorman_jason_dodd,John Gorman & Jason Dodd
+coach_nigel_pearson,Nigel Pearson
+coach_jan_poortvliet,Jan Poortvliet
+coach_mark_wotte,Mark Wotte
+coach_dean_wilkins,Dean Wilkins
+coach_nigel_adkins,Nigel Adkins
+coach_ronald_koeman,Ronald Koeman
+coach_claude_puel,Claude Puel
+coach_mauricio_pellegrino,Mauricio Pellegrino
+coach_mark_hughes,Mark Hughes
+coach_kelvin_davis,Kelvin Davis
+coach_ralph_hasenhuttl,Ralph Hasenhüttl
+coach_ruben_selles,Rubén Sellés
+coach_nathan_jones,Nathan Jones
+coach_russell_martin,Russell Martin
+coach_simon_rusk,Simon Rusk
+coach_ivan_juric,Ivan Jurić
+coach_will_still,Will Still
+coach_frank_watt,Frank Watt
+coach_andy_cunningham,Andy Cunningham
+coach_tom_mather,Tom Mather
+coach_stan_seymour,Stan Seymour
+coach_george_martin,George Martin
+coach_doug_livingstone,Doug Livingstone
+coach_charlie_mitten,Charlie Mitten
+coach_norman_smith,Norman Smith
+coach_joe_harvey,Joe Harvey
+coach_gordon_lee,Gordon Lee
+coach_richard_dinnis,Richard Dinnis
+coach_willie_mcfaul,Willie McFaul
+coach_bill_mcgarry,Bill McGarry
+coach_arthur_cox,Arthur Cox
+coach_jack_charlton,Jack Charlton
+coach_colin_suggett,Colin Suggett
+coach_jim_smith,Jim Smith
+coach_bobby_saxton,Bobby Saxton
+coach_osvaldo_ardiles,Osvaldo Ardiles
+coach_kevin_keegan,Kevin Keegan
+coach_terry_mcdermott,Terry McDermott
+coach_ruud_gullit,Ruud Gullit
+coach_steve_clarke,Steve Clarke
+coach_bobby_robson,Bobby Robson
+coach_john_carver,John Carver
+coach_chris_hughton,Chris Hughton
+coach_joe_kinnear,Joe Kinnear
+coach_alan_shearer,Alan Shearer
+coach_steve_mcclaren,Steve McClaren
+coach_steve_bruce,Steve Bruce
+coach_graeme_jones,Graeme Jones
+coach_eddie_howe,Eddie Howe
+coach_jason_tindall,Jason Tindall
+coach_a_h_albut,A. H. Albut
+coach_james_west,James West
+coach_ernest_mangnall,Ernest Mangnall
+coach_john_bentley,John Bentley
+coach_jack_robson,Jack Robson
+coach_john_chapman,John Chapman
+coach_lal_hilditch,Lal Hilditch
+coach_herbert_bamlett,Herbert Bamlett
+coach_walter_crickmer,Walter Crickmer
+coach_scott_duncan,Scott Duncan
+coach_matt_busby,Matt Busby
+coach_jimmy_murphy,Jimmy Murphy
+coach_wilf_mcguinness,Wilf McGuinness
+coach_frank_o_farrell,Frank O'Farrell
+coach_tommy_docherty,Tommy Docherty
+coach_dave_sexton,Dave Sexton
+coach_alex_ferguson,Alex Ferguson
+coach_ryan_giggs,Ryan Giggs
+coach_louis_van_gaal,Louis van Gaal
+coach_ole_gunnar_solskjaer,Ole Gunnar Solskjær
+coach_michael_carrick,Michael Carrick
+coach_ralf_rangnick,Ralf Rangnick
+coach_erik_ten_hag,Erik ten Hag
+coach_ruud_van_nistelrooy,Ruud van Nistelrooy
+coach_ruben_amorim,Ruben Amorim
+coach_tom_maley,Tom Maley
+coach_wilf_wild,Wilf Wild
+coach_les_mcdowall,Les McDowall
+coach_tony_book,Tony Book
+coach_roberto_mancini,Roberto Mancini
+coach_pep_guardiola,Pep Guardiola
+coach_harry_radford,Harry Radford
+coach_harry_hallam,Harry Hallam
+coach_fred_earp,Fred Earp
+coach_bob_masters,Bob Masters
+coach_john_baynes,John Baynes
+coach_stan_hardy,Stan Hardy
+coach_noel_watson,Noel Watson
+coach_harold_wightman,Harold Wightman
+coach_billy_walker,Billy Walker
+coach_andy_beattie,Andy Beattie
+coach_johnny_carey,Johnny Carey
+coach_matt_gillies,Matt Gillies
+coach_dave_mackay,Dave Mackay
+coach_allan_brown,Allan Brown
+coach_brian_clough,Brian Clough
+coach_frank_clark,Frank Clark
+coach_stuart_pearce,Stuart Pearce
+coach_dave_bassett,Dave Bassett
+coach_micky_adams,Micky Adams
+coach_david_platt,David Platt
+coach_paul_hart,Paul Hart
+coach_mick_harford,Mick Harford
+coach_gary_megson,Gary Megson
+coach_frank_barlow_ian_mcparland,Frank Barlow Ian McParland
+coach_colin_calderwood,Colin Calderwood
+coach_john_pemberton,John Pemberton
+coach_billy_davies,Billy Davies
+coach_rob_kelly,Rob Kelly
+coach_steve_cotterill,Steve Cotterill
+coach_sean_o_driscoll,Sean O'Driscoll
+coach_alex_mcleish,Alex McLeish
+coach_gary_brazil,Gary Brazil
+coach_dougie_freedman,Dougie Freedman
+coach_paul_williams,Paul Williams
+coach_philippe_montanier,Philippe Montanier
+coach_mark_warburton,Mark Warburton
+coach_aitor_karanka,Aitor Karanka
+coach_simon_ireland,Simon Ireland
+coach_martin_o_neill,Martin O'Neill
+coach_sabri_lamouchi,Sabri Lamouchi
+coach_steven_reid,Steven Reid
+coach_steve_cooper,Steve Cooper
+coach_ange_postecoglou,Ange Postecoglou
+coach_sean_dyche,Sean Dyche
+coach_1937-1939_division_1_1946-1954_division_2_1954-1955_division_1_1955-1957_division_2_1957-1969_division_1_1969-1971_division_2,1937–1939 Division 1 1946–1954 Division 2 1954–1955 Division 1 1955–1957 Division 2 1957–1969 Division 1 1969–1971 Division 2
+coach_umbro,Umbro
+coach_adidas,Adidas
+coach_in-house,In-House
+coach_osca,Osca
+coach_hensons,Hensons
+coach_scoreline,Scoreline
+coach_ellgren,Ellgren
+coach_matchwinner,Matchwinner
+coach_le_coq_sportif,Le Coq Sportif
+coach_patrick,Patrick
+coach_super_league,Super League
+coach_tfg_sports,TFG Sports
+coach_bourne_red,Bourne Red
+coach_carbrini_sportswear,Carbrini Sportswear
+coach_fila,Fila
+coach_jd_sports,JD Sports
+coach_andy_ducat,Andy Ducat
+coach_joe_bradshaw,Joe Bradshaw
+coach_ned_liddell,Ned Liddell
+coach_jack_peart,Jack Peart
+coach_frank_osborne,Frank Osborne*
+coach_bill_dodgin_sr,Bill Dodgin Sr.
+coach_bedford_jezzard,Bedford Jezzard
+coach_vic_buckingham,Vic Buckingham
+coach_bill_dodgin_jr,Bill Dodgin Jr.
+coach_alec_stock,Alec Stock
+coach_bobby_campbell,Bobby Campbell
+coach_malcolm_macdonald,Malcolm Macdonald
+coach_ray_harford,Ray Harford
+coach_ray_lewington,Ray Lewington
+coach_alan_dicks,Alan Dicks
+coach_don_mackay,Don Mackay
+coach_ray_wilkins,Ray Wilkins
+coach_paul_bracewell,Paul Bracewell
+coach_jean_tigana,Jean Tigana
+coach_chris_coleman,Chris Coleman
+coach_lawrie_sanchez,Lawrie Sanchez
+coach_martin_jol,Martin Jol
+coach_rene_meulensteenss_-,René Meulensteen§±
+coach_felix_magath,Felix Magath
+coach_kit_symons,Kit Symons
+coach_slavisa_jokanovic_-,Slaviša Jokanović±
+coach_claudio_ranieri,Claudio Ranieri
+coach_scott_parker_-,Scott Parker±
+coach_marco_silva_-,Marco Silva±
+coach_first_division,First Division
+coach_second_division,Second Division
+coach_fa_cup,FA Cup
+coach_fa_charity_shield,FA Charity Shield
+coach_uefa_cup_winners_cup,UEFA Cup Winners' Cup
+coach_edmund_goodman,Edmund Goodman
+coach_alex_maley,Alex Maley
+coach_fred_mavin,Fred Mavin
+coach_jack_tresadern,Jack Tresadern
+coach_tom_bromilow,Tom Bromilow
+coach_r_s_moyes,R. S. Moyes
+coach_george_irwin,George Irwin
+coach_jack_butler,Jack Butler
+coach_ronnie_rooke,Ronnie Rooke
+coach_fred_dawes_charlie_slade,Fred Dawes/Charlie Slade
+coach_laurie_scott,Laurie Scott
+coach_cyril_spiers,Cyril Spiers
+coach_george_smith,George Smith
+coach_dick_graham,Dick Graham
+coach_bert_head,Bert Head
+coach_malcolm_allison,Malcolm Allison
+coach_terry_venables,Terry Venables
+coach_dario_gradi,Dario Gradi
+coach_steve_kember,Steve Kember
+coach_alan_mullery,Alan Mullery
+coach_steve_coppell,Steve Coppell
+coach_alan_smith,Alan Smith
+coach_attilio_lombardo,Attilio Lombardo
+coach_trevor_francis,Trevor Francis
+coach_iain_dowie,Iain Dowie
+coach_peter_taylor,Peter Taylor
+coach_neil_warnock,Neil Warnock
+coach_ian_holloway,Ian Holloway
+coach_tony_pulis,Tony Pulis
+coach_frank_de_boer,Frank de Boer
+coach_patrick_vieira,Patrick Vieira
+coach_oliver_glasner,Oliver Glasner
+coach_ted_drake,Ted Drake
+coach_john_neal,John Neal
+coach_john_hollins,John Hollins
+coach_gianluca_vialli,Gianluca Vialli
+coach_guus_hiddink,Guus Hiddink
+coach_carlo_ancelotti,Carlo Ancelotti
+coach_roberto_di_matteo,Roberto Di Matteo
+coach_maurizio_sarri,Maurizio Sarri
+coach_thomas_tuchel,Thomas Tuchel
+coach_enzo_maresca,Enzo Maresca
+coach_head_coach,Head Coach
+coach_assistant_head_coaches,Assistant Head Coaches
+coach_goalkeeping_coach,Goalkeeping Coach
+coach_set-piece_coach,Set-Piece Coach
+coach_chief_analyst,Chief Analyst
+coach_tactical_analysts,Tactical Analysts
+coach_recruitment,Recruitment
+coach_head_of_recruitment,Head of Recruitment
+coach_loan_manager,Loan Manager
+coach_academy,Academy
+coach_academy_manager,Academy Manager
+coach_under-21s_head_coach,Under-21s Head Coach
+coach_under-18s_head_coach,Under-18s Head Coach
+coach_medical_performance,Medical & Performance
+coach_head_of_medicine,Head of Medicine
+coach_head_of_performance,Head of Performance
+coach_club_doctor,Club Doctor
+coach_william_lewis,William Lewis
+coach_dick_molyneux,Dick Molyneux
+coach_bob_crone,Bob Crone ♦
+coach_william_brown,William Brown
+coach_george_parsonage,George Parsonage ♦
+coach_fred_halliday,Fred Halliday
+coach_dusty_rhodes,Dusty Rhodes ♦
+coach_archie_mitchell,Archie Mitchell ♦
+coach_harry_curtis,Harry Curtis
+coach_jackie_gibbons,Jackie Gibbons ♦
+coach_jimmy_bain,Jimmy Bain ♦
+coach_tommy_lawton,Tommy Lawton ♦
+coach_fred_monk,Fred Monk ♦
+coach_malky_macdonald,Malky MacDonald ♦
+coach_tommy_cavanagh,Tommy Cavanagh
+coach_ian_black,Ian Black
+coach_billy_gray,Billy Gray
+coach_jimmy_sirrel,Jimmy Sirrel
+coach_ron_fenton,Ron Fenton ♦
+coach_frank_blunstone,Frank Blunstone
+coach_mike_everitt,Mike Everitt
+coach_jess_willard,Jess Willard
+coach_john_docherty,John Docherty ♦
+coach_eddie_lyons,Eddie Lyons
+coach_fred_callaghan,Fred Callaghan
+coach_frank_mclintock,Frank McLintock
+coach_steve_perryman,Steve Perryman ♦
+coach_phil_holder,Phil Holder
+coach_david_webb,David Webb
+coach_kevin_lock,Kevin Lock
+coach_eddie_may,Eddie May
+coach_ron_noades,Ron Noades
+coach_wally_downes,Wally Downes
+coach_garry_thompson,Garry Thompson
+coach_martin_allen,Martin Allen
+coach_leroy_rosenior,Leroy Rosenior
+coach_scott_fitzgerald,Scott Fitzgerald ♦
+coach_barry_quin,Barry Quin
+coach_terry_butcher,Terry Butcher
+coach_andy_scott,Andy Scott ♦
+coach_nicky_forster,Nicky Forster ♦
+coach_uwe_rosler,Uwe Rösler
+coach_alan_kernaghan,Alan Kernaghan
+coach_marinus_dijkhuizen,Marinus Dijkhuizen *
+coach_lee_carsley,Lee Carsley *
+coach_thomas_frank,Thomas Frank *
+coach_keith_andrews,Keith Andrews ‡
+coach_mick_o_brien,Mick O'Brien
+coach_alf_ramsey,Alf Ramsey
+coach_jackie_milburn,Jackie Milburn
+coach_bobby_ferguson,Bobby Ferguson
+coach_john_duncan,John Duncan
+coach_joe_royle,Joe Royle
+coach_jim_magilton,Jim Magilton
+coach_roy_keane,Roy Keane
+coach_paul_jewell,Paul Jewell
+coach_mick_mccarthy,Mick McCarthy
+coach_paul_hurst,Paul Hurst
+coach_paul_lambert,Paul Lambert
+coach_paul_cook,Paul Cook
+coach_kieran_mckenna,Kieran McKenna
+coach_j_b_wostinholm,J.B. Wostinholm
+coach_john_nicholson,John Nicholson
+coach_teddy_davison,Teddy Davison
+coach_reg_freeman,Reg Freeman
+coach_archie_clark,Archie Clark
+coach_john_harris,John Harris
+coach_arthur_rowley,Arthur Rowley
+coach_ken_furphy,Ken Furphy
+coach_cec_coldwell,Cec Coldwell
+coach_harry_haslam,Harry Haslam
+coach_martin_peters,Martin Peters
+coach_ian_porterfield,Ian Porterfield
+coach_billy_mcewan,Billy McEwan
+coach_howard_kendall,Howard Kendall
+coach_nigel_spackman,Nigel Spackman
+coach_russell_slade,Russell Slade
+coach_steve_thompson,Steve Thompson
+coach_adrian_heath,Adrian Heath
+coach_bryan_robson,Bryan Robson
+coach_kevin_blackwell,Kevin Blackwell
+coach_gary_speed,Gary Speed
+coach_danny_wilson,Danny Wilson
+coach_chris_morgan,Chris Morgan
+coach_david_weir,David Weir
+coach_nigel_clough,Nigel Clough
+coach_chris_wilder,Chris Wilder
+coach_paul_heckingbottom,Paul Heckingbottom
+coach_slavisa_jokanovic,Slaviša Jokanović
+coach_john_mccartney,John McCartney
+coach_dally_duncan,Dally Duncan
+coach_sam_bartram,Sam Bartram
+coach_bill_harvey,Bill Harvey
+coach_jim_ryan,Jim Ryan
+coach_lennie_lawrence,Lennie Lawrence
+coach_mike_newell,Mike Newell
+coach_richard_money,Richard Money
+coach_gary_brabin,Gary Brabin
+coach_john_still,John Still
+coach_rob_edwards,Rob Edwards
+coach_alan_pace,Alan Pace
+coach_dave_checketts_antonio_davila_stuart_hunt_mike_smith_vlad_torgovnik,Dave Checketts Antonio Dávila Stuart Hunt Mike Smith Vlad Torgovnik
+coach_dick_ray,Dick Ray
+coach_arthur_fairclough,Arthur Fairclough
+coach_billy_hampson,Billy Hampson
+coach_willis_edwards,Willis Edwards
+coach_major_frank_buckley,Major Frank Buckley
+coach_raich_carter,Raich Carter
+coach_bill_lambton,Bill Lambton
+coach_bob_roxburgh,Bob Roxburgh
+coach_jack_taylor,Jack Taylor
+coach_don_revie,Don Revie
+coach_maurice_lindley,Maurice Lindley
+coach_jimmy_armfield,Jimmy Armfield
+coach_jock_stein,Jock Stein
+coach_jimmy_adamson,Jimmy Adamson
+coach_allan_clarke,Allan Clarke
+coach_eddie_gray,Eddie Gray
+coach_peter_gunby,Peter Gunby
+coach_billy_bremner,Billy Bremner
+coach_howard_wilkinson,Howard Wilkinson
+coach_david_o_leary,David O'Leary
+coach_peter_reid,Peter Reid
+coach_david_geddis,David Geddis
+coach_dennis_wise,Dennis Wise
+coach_gwyn_williams,Gwyn Williams
+coach_gary_mcallister,Gary McAllister
+coach_simon_grayson,Simon Grayson
+coach_neil_redfearn,Neil Redfearn
+coach_brian_mcdermott,Brian McDermott
+coach_dave_hockaday,Dave Hockaday
+coach_darko_milanic,Darko Milanič
+coach_steve_evans,Steve Evans
+coach_garry_monk,Garry Monk
+coach_thomas_christiansen,Thomas Christiansen
+coach_marcelo_bielsa,Marcelo Bielsa
+coach_jesse_marsch,Jesse Marsch
+coach_michael_skubala,Michael Skubala
+coach_javi_gracia,Javi Gracia
+coach_daniel_farke,Daniel Farke
+coach_zigor_aranalde,Zigor Aranalde
+coach_inigo_arteaga,Iñigo Arteaga
+coach_andrew_douglas_lewis_boulter,Andrew Douglas Lewis Boulter
+coach_richard_ainsley,Richard Ainsley
+coach_valon_behrami,Valon Behrami
+coach_richard_johnson,Richard Johnson
+coach_micah_hyde,Micah Hyde
+coach_charlie_daniels,Charlie Daniels
+coach_adrian_mariappa,Adrian Mariappa
+coach_dan_gosling,Dan Gosling
+coach_lloyd_doyley,Lloyd Doyley
+coach_gary_phillips,Gary Phillips
+coach_john_bowman,John Bowman
+coach_bert_stansfield,Bert Stansfield
+coach_frank_buckley,Frank Buckley
+coach_charles_o_hagan,Charles O'Hagan
+coach_bert_gosnell,Bert Gosnell
+coach_cecil_potter,Cecil Potter
+coach_james_kerr,James Kerr
+coach_bob_young,Bob Young
+coach_jimmy_jewell,Jimmy Jewell
+coach_duggie_lochhead,Duggie Lochhead
+coach_norman_low,Norman Low
+coach_archie_macaulay,Archie Macaulay
+coach_willie_reid,Willie Reid
+coach_ron_ashman,Ron Ashman
+coach_lol_morgan,Lol Morgan
+coach_john_bond,John Bond
+coach_ken_brown,Ken Brown
+coach_dave_stringer,Dave Stringer
+coach_mike_walker,Mike Walker
+coach_john_deehan,John Deehan
+coach_bryan_hamilton,Bryan Hamilton
+coach_nigel_worthington,Nigel Worthington
+coach_peter_grant,Peter Grant
+coach_bryan_gunn,Bryan Gunn
+coach_neil_adams,Neil Adams
+coach_alex_neil,Alex Neil
+coach_david_wagner,David Wagner
+coach_johannes_hoff_thorup,Johannes Hoff Thorup
+coach_liam_manning,Liam Manning
+coach_louis_ford,Louis Ford
+coach_edward_stephenson,Edward Stephenson
+coach_frank_heaven,Frank Heaven
+coach_fred_everiss,Fred Everiss
+coach_jack_smith,Jack Smith
+coach_jimmy_hagan,Jimmy Hagan
+coach_alan_ashman,Alan Ashman
+coach_johnny_giles,Johnny Giles
+coach_tony_mowbray,Tony Mowbray

@@ -1,0 +1,22 @@
+# Bỏ qua dữ liệu runtime của Neo4j
+neo4j-data/
+neo4j-data/*
+
+# Bỏ file môi trường (chứa API key, mật khẩu)
+.env
+
+# Bỏ cache, log, output
+*.log
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Thư mục build latex, pdf tạm
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
